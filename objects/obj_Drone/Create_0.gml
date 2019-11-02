@@ -6,12 +6,13 @@ active = true;
 
 //movement
 canJump = true;
-spd = 1;
+spd = 1.5;
 facing = 1;
 
 canFire = true;
-
-manaValue = 25;
+charging = false;
+targetx = 0;
+targety = 0;
 
 animate_attack = false;
 

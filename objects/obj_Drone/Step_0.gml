@@ -21,7 +21,8 @@ if(instance_exists(obj_Player)){
 			velocity_y = 0;
 			
 		// How to move
-		}else{
+		}else if(!charging){
+			
 			gotThere = false;
 			
 			// Should I move up or down?
@@ -36,14 +37,14 @@ if(instance_exists(obj_Player)){
 			if(abs(obj_Player.x - x) > 100){
 				velocity_x = facing * spd;
 			}
-			
 		} 
-		
-		
 		
 		// Attacks player
 		if(gotThere && canFire){
-			alarm[4] = 10;
+			charging = true;
+			targetx = obj_Player.x;
+			targety = obj_Player.y;
+			alarm[4] = room_speed * 1;
 			animate_attack = true;
 			alarm[3] = 29;
 			canFire = false;
