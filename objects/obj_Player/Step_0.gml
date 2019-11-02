@@ -56,7 +56,7 @@ if(input_attack && can_attack){
 			alarm[1] = 40;
 			break;
 		case 2:
-			alarm[1] = 24;
+			alarm[1] = 20;
 			break;
 	}
 	scr_Attack();
