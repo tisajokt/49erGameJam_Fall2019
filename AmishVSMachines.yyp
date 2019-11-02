@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "02e3336f-852b-43ea-8d14-37338b1c0850",
-            "Value": {
-                "id": "f3d19a4e-6b77-4a86-b704-85de69ded883",
-                "resourcePath": "views\\02e3336f-852b-43ea-8d14-37338b1c0850.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "05304629-14d3-4ac1-a669-d9f0a6082837",
             "Value": {
                 "id": "f9ba25b5-168d-48a9-9255-bfe5ddb7f5b5",
@@ -154,7 +146,7 @@
             "Key": "11aa9fe7-dcf5-4ab0-9f94-5fd1fd53f1aa",
             "Value": {
                 "id": "3d42787c-d836-4304-a7fb-81969865b18a",
-                "resourcePath": "objects\\obj_Hands\\obj_Hands.yy",
+                "resourcePath": "objects\\obj_Hat\\obj_Hat.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -212,14 +204,6 @@
                 "id": "1401d3c2-d82a-420b-b3bb-8855b77b36ed",
                 "resourcePath": "rooms\\Death\\Death.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "1cb33c32-bc27-4de5-be8b-984adc1c7166",
-            "Value": {
-                "id": "f9984199-c2c9-48c9-930f-7871c9116931",
-                "resourcePath": "objects\\obj_SpeedHat\\obj_SpeedHat.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -396,6 +380,14 @@
                 "id": "b15622ea-7787-4b8e-a71a-74a5cff94333",
                 "resourcePath": "objects\\obj_Explosion\\obj_Explosion.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3d7c06f6-1b41-4268-a047-07e2a797ec2f",
+            "Value": {
+                "id": "4f4c3ddd-9ff7-4d19-93f9-a14fd21b1a53",
+                "resourcePath": "sprites\\spr_PowerHat\\spr_PowerHat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -631,6 +623,14 @@
             }
         },
         {
+            "Key": "7cc57c92-10a3-4b1d-8f53-d65d65317461",
+            "Value": {
+                "id": "5b311a42-ba50-4331-b0b5-603321db396b",
+                "resourcePath": "sprites\\spr_SpeedHat\\spr_SpeedHat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f0af070-5205-4be5-83ee-226d60ac2f72",
             "Value": {
                 "id": "f53801f0-6bd4-4395-8d54-0a1611347a71",
@@ -675,6 +675,14 @@
             "Value": {
                 "id": "ad84d48d-6038-49f7-9663-a8a40c293143",
                 "resourcePath": "sprites\\spr_GUI_manabar\\spr_GUI_manabar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "894a44e6-15b5-43f5-8ab9-d59159e0977a",
+            "Value": {
+                "id": "d1880ebc-e2cc-4405-981b-1e4ea30a3ba8",
+                "resourcePath": "sprites\\sprite47\\sprite47.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -804,14 +812,6 @@
                 "id": "f6525af1-71f2-40a5-8420-bb4f2403d42e",
                 "resourcePath": "sprites\\spr_PlayerFire_AttackEffect\\spr_PlayerFire_AttackEffect.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "99a3b567-3cc9-45f3-a218-2a041ec746dd",
-            "Value": {
-                "id": "1f66fac6-6972-475c-a7ef-3366db3c06b1",
-                "resourcePath": "views\\99a3b567-3cc9-45f3-a218-2a041ec746dd.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -1090,7 +1090,15 @@
             "Key": "c388fdaf-8d23-4bad-b3f3-819c02ba910f",
             "Value": {
                 "id": "dba3c2c7-2308-4f06-a1cb-b7699d6d9d84",
-                "resourcePath": "objects\\obj_Hat\\obj_Hat.yy",
+                "resourcePath": "objects\\obj_Hands\\obj_Hands.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c5663f57-8ab4-49ea-b196-54662d8b9785",
+            "Value": {
+                "id": "e73743c2-e6e3-4e4b-8ea7-8972ff46a2d9",
+                "resourcePath": "objects\\obj_hat1PickUp\\obj_hat1PickUp.yy",
                 "resourceType": "GMObject"
             }
         },

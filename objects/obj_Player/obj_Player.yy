@@ -53,6 +53,16 @@
             "enumb": 2,
             "eventtype": 2,
             "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
+        },
+        {
+            "id": "d8579b66-5e4f-441d-8b74-59418aab0b8e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "c5663f57-8ab4-49ea-b196-54662d8b9785",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -132,7 +142,7 @@
             "varType": 0
         },
         {
-            "id": "827d3094-6800-4a18-9d2c-28dd63e35992",
+            "id": "4a1fbf33-ec8a-48a5-b650-8bc16208c1a4",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -140,9 +150,9 @@
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
-            "resourceFilter": 256,
-            "value": "obj_SpeedHat",
-            "varName": "current_hat",
+            "resourceFilter": 1023,
+            "value": "obj_Hat",
+            "varName": "hat",
             "varType": 5
         }
     ],
