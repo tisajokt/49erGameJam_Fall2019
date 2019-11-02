@@ -383,6 +383,22 @@
             }
         },
         {
+            "Key": "3a84a54d-0756-4fd3-9564-eefa0821b167",
+            "Value": {
+                "id": "eacdaa86-991c-4627-a600-17f7bfce432f",
+                "resourcePath": "sprites\\sprite45\\sprite45.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3ac0bd4e-0a64-48d8-a9d3-c0b415a3644d",
+            "Value": {
+                "id": "43c3c6e0-f19a-4cd4-bc9c-eb51f0a6226c",
+                "resourcePath": "sprites\\spr_Cyborg\\spr_Cyborg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c794505-4f67-4a51-9857-e4199d157b46",
             "Value": {
                 "id": "b15622ea-7787-4b8e-a71a-74a5cff94333",
@@ -468,6 +484,14 @@
                 "id": "9920d4e1-cf26-4b4e-b21d-a8cc30e514a2",
                 "resourcePath": "sounds\\sfx_spec_heal\\sfx_spec_heal.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "576f3d82-1b47-4e26-b436-6b308346afb1",
+            "Value": {
+                "id": "362a8ec7-30ed-4c94-8300-1c4bd1536ae9",
+                "resourcePath": "objects\\obj_Cyborg\\obj_Cyborg.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -628,6 +652,14 @@
                 "id": "211db323-23c2-4eb9-9808-c25782b70728",
                 "resourcePath": "shaders\\shdr_paletteSwap\\shdr_paletteSwap.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "7cb0cc03-f35a-46dc-8e25-120700955439",
+            "Value": {
+                "id": "b0b36af1-6760-468b-88d0-53c35dd1420c",
+                "resourcePath": "sprites\\sprite49\\sprite49.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1284,6 +1316,14 @@
                 "id": "a959e80d-1b9c-4f13-ad29-43906425a003",
                 "resourcePath": "sounds\\sfx_player_low\\sfx_player_low.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ec595e8e-7ae1-446a-ace6-054c6a053f5e",
+            "Value": {
+                "id": "f0359f8f-5352-41a7-8e8d-7c5cb257489b",
+                "resourcePath": "sprites\\sprite48\\sprite48.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
