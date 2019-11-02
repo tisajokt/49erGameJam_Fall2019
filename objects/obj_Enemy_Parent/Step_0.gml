@@ -5,6 +5,8 @@ if(stun){
 	active = false;
 }
 
+
+
 if(bleed && !invincible){
 	invincible = true;
 	white_flash = true;

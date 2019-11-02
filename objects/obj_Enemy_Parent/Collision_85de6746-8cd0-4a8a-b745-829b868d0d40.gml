@@ -10,9 +10,9 @@ if(!invincible){
 		alarm[11] = room_speed * 3;
 	}
 	else if(obj_Player.weapon == 3){
-		x += obj_Player.facing * 40;
-		y += obj_Player.facing * -40;
+		velocity_y += -7;
 	}
+	//hspeed = 0;
 	
 	
 }
