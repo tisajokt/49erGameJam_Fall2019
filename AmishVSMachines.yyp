@@ -223,14 +223,6 @@
             }
         },
         {
-            "Key": "1f8f6aea-d2de-4f8d-aeeb-6f29ce7e9688",
-            "Value": {
-                "id": "4a274c6d-6876-4192-babc-02e1de0a7dd6",
-                "resourcePath": "sprites\\spr_PitchforkIdle\\spr_PitchforkIdle.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "20b9df6a-2c47-4f38-8a77-7b142628ecf4",
             "Value": {
                 "id": "485cfe2d-ddca-45d6-9161-d6d36ecd4b37",
@@ -839,30 +831,6 @@
             }
         },
         {
-            "Key": "98e733ab-e3c8-4477-9452-6ffa033143b5",
-            "Value": {
-                "id": "4813c4de-c656-40a4-a3de-7a59a508470f",
-                "resourcePath": "sprites\\spr_PlayerAir_AttackEffect\\spr_PlayerAir_AttackEffect.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9914122a-5df8-4569-8cf3-34df8e56aa92",
-            "Value": {
-                "id": "f6525af1-71f2-40a5-8420-bb4f2403d42e",
-                "resourcePath": "sprites\\spr_PlayerFire_AttackEffect\\spr_PlayerFire_AttackEffect.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9aae8031-3324-42a6-b88d-198f99e6164a",
-            "Value": {
-                "id": "3d5b0f85-46a6-4cd2-a6bb-aca154c528ba",
-                "resourcePath": "sprites\\spr_player_takedamage\\spr_player_takedamage.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9b9bcecb-d530-44e3-9bd3-092301501aea",
             "Value": {
                 "id": "5d6531a5-1c63-489f-86be-ebb6804a83d9",
@@ -908,6 +876,14 @@
                 "id": "99d5a049-71c5-42ef-88e2-336cc6325f43",
                 "resourcePath": "views\\a51f1a43-14af-429e-b186-c7cb606ec5d7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5f8ed9b-3938-4b80-ab7f-d9fda83a0a1c",
+            "Value": {
+                "id": "34189b11-430d-4790-8d87-77f54661bfc1",
+                "resourcePath": "sprites\\spr_PitchforkIdle\\spr_PitchforkIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1127,6 +1103,14 @@
             }
         },
         {
+            "Key": "c20a2814-62bd-4478-81f2-7dfc5c5c9898",
+            "Value": {
+                "id": "3cf472c2-b56e-49b5-adeb-778a77f57830",
+                "resourcePath": "objects\\obj_Hands\\obj_Hands.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c27d951f-1244-45ce-8fe9-e2d7ab34009a",
             "Value": {
                 "id": "39175b70-d583-4f09-9059-a7baf99a349d",
@@ -1140,14 +1124,6 @@
                 "id": "741b52a6-baba-42a0-a1dd-3cfcb6aafe43",
                 "resourcePath": "tilesets\\til_Grasslands_Static\\til_Grasslands_Static.yy",
                 "resourceType": "GMTileSet"
-            }
-        },
-        {
-            "Key": "c388fdaf-8d23-4bad-b3f3-819c02ba910f",
-            "Value": {
-                "id": "dba3c2c7-2308-4f06-a1cb-b7699d6d9d84",
-                "resourcePath": "objects\\obj_Hands\\obj_Hands.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1236,14 +1212,6 @@
                 "id": "22f0d0c1-36d7-4045-80d3-78c3998c5d45",
                 "resourcePath": "views\\d8e669b5-a076-4256-b052-7f17e1fe6d52.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d9355a6b-b3be-4db5-8b8e-d9a4b93e006b",
-            "Value": {
-                "id": "a0fcb315-54c9-4f79-ab3e-bf06108b5128",
-                "resourcePath": "objects\\obj_Fire_Particle_Controller\\obj_Fire_Particle_Controller.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1458,7 +1426,6 @@
     "script_order": [
         "ae97d2f0-4152-4b87-a84a-88856b9b1866",
         "bc5479d4-fb1c-424a-b4f8-f79118aaeea9",
-        "e25fa086-4a08-4d37-8fb9-2bb2315157e5",
         "4910319e-2ea3-4aa8-8a6b-96cfa2abfc88",
         "22098e19-92de-48de-bdec-803cb54c361e",
         "1a5cc88b-1500-44f3-bde1-ca68741c1753"

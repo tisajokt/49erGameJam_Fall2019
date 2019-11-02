@@ -1,18 +1,18 @@
 {
-    "id": "c388fdaf-8d23-4bad-b3f3-819c02ba910f",
+    "id": "c20a2814-62bd-4478-81f2-7dfc5c5c9898",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_Hands",
     "eventList": [
         {
-            "id": "b9782dec-f806-4eb1-bb07-709f3d61d4fe",
+            "id": "9e35c515-0230-4761-84b6-3d098c33bb3b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 2,
             "eventtype": 3,
-            "m_owner": "c388fdaf-8d23-4bad-b3f3-819c02ba910f"
+            "m_owner": "c20a2814-62bd-4478-81f2-7dfc5c5c9898"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1f8f6aea-d2de-4f8d-aeeb-6f29ce7e9688",
+    "spriteId": "a5f8ed9b-3938-4b80-ab7f-d9fda83a0a1c",
     "visible": true
 }

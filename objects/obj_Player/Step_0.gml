@@ -40,7 +40,7 @@ if(input_attack && can_attack){
 	can_attack = false;
 	alarm[1] = attackTimer;
 	
-	//scr_Attack();
+	scr_Attack();
 }
 
 #endregion

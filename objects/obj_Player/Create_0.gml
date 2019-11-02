@@ -3,11 +3,9 @@
 event_inherited();
 
 hitpoints = max_hitpoints;
-changeTimer = 15;
-can_switch = true;
 attackTimer = 20;
 can_attack = true;
-attack_offset = 4;
+attack_offset = 15;
 
 
 static_gravity_scale = gravity_scale; // do not modify
@@ -37,5 +35,9 @@ enum hat_names{
 	other_hat
 }
 
-hands = instance_create_depth(x, y, depth-2, obj_Hands);
-hat = instance_create_depth(x, y, depth-1, obj_Hat);
+// weapons
+weapon = 0;
+
+hands = instance_create_depth(x, y, depth-1, obj_Hands);
+hat = instance_create_depth(x, y, depth-2, obj_Hat);
+
