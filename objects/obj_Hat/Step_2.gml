@@ -4,8 +4,8 @@ if(instance_exists(obj_Player)){
 	
 	image_xscale = obj_Player.facing;
 	
-	if(obj_Player.hits == 0){
-		instance_destroy();
-	}
+	//if(obj_Player.hits == 0){
+	//	instance_destroy();
+	//}
 	
 }

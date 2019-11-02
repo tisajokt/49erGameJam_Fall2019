@@ -72,7 +72,7 @@ if(instance_exists(obj_Hands) && (instance_exists(obj_Hat))){
 	image_xscale = facing;
 	hat.image_xscale = facing;
 	hands.image_xscale = facing;
-}
+
 
 if(!can_attack) { //attacking
 	switch(weapon){
@@ -113,7 +113,7 @@ if(!can_attack) { //attacking
 }
 hands.weapon = weapon;
 hat.weapon = weapon;
-
+}
 // Change the color of the wizard
 
 #endregion
