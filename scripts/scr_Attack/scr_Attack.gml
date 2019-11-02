@@ -13,11 +13,25 @@
 */
 
 
-if(obj_Player.weapon == 1){
-	instance_create_depth(x + obj_Player.attack_offset * obj_Player.facing, y + 2, 100, obj_CrossbowBolt);
-}
-else{
-	instance_create_depth(x + obj_Player.attack_offset * obj_Player.facing, y + 2, 100, obj_BasicAttack);
-}
+//if(obj_Player.weapon == 1){
+//	// start attack timer for 
+//	//instance_create_depth(x + obj_Player.attack_offset * obj_Player.facing, y + 2, 100, obj_CrossbowBolt);
+//}
+//else{
+//	instance_create_depth(x + obj_Player.attack_offset * obj_Player.facing, y + 2, 100, obj_BasicAttack);
+//}
 
-
+switch(obj_Player.weapon){
+	case 0:
+		// create the pitchfork hitbox
+		instance_create_layer(x, y, obj_Player.layer, obj_PitchforkHB);
+		break;
+	case 1:
+		// set a timer to shoot the arrow
+		obj_Player.alarm[3] = 30;
+		break;
+	case 2:
+		// create the sword hitbox
+		instance_create_layer(x, y, obj_Player.layer, obj_SwordHB);
+		break
+}

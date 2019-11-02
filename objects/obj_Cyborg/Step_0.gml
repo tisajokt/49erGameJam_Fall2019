@@ -10,7 +10,7 @@ if(instance_exists(obj_Player)){
 			
 			if((obj_Player.y > y - y_expand && obj_Player.y < y + (sprite_height) + y_expand)){
 				if(canFlyBack){
-					scr_DamagePlayer(damage);
+					obj_Player.hits--;
 					y_push = 5;
 						x_push = 3;
 				

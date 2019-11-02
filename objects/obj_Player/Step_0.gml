@@ -43,16 +43,17 @@ if(velocity_y > 0){
 #region Attacking
 if(input_attack && can_attack){
 	can_attack = false;
+	can_move = false;
 	hat.image_index = 0;
 	hands.image_index = 0;
 	image_index = 0;
 	
 	switch(weapon){
 		case 0:
-			alarm[1] = 44;
+			alarm[1] = 32;
 			break;
 		case 1:
-			alarm[1] = 52;
+			alarm[1] = 40;
 			break;
 		case 2:
 			alarm[1] = 24;

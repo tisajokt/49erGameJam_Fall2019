@@ -35,16 +35,6 @@
             "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
         },
         {
-            "id": "bb86bade-c370-490a-bc90-f57a5a484177",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
-        },
-        {
             "id": "c7f8f672-bcda-4216-943b-74d64ba13bdf",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -72,6 +62,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 1,
+            "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
+        },
+        {
+            "id": "6959e8a4-2d19-4e75-82b6-4bcc11d42ea8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 3,
+            "eventtype": 2,
             "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
         }
     ],
@@ -175,7 +175,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1",
+            "value": "2",
             "varName": "weapon",
             "varType": 0
         }

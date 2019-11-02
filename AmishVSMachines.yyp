@@ -751,6 +751,14 @@
             }
         },
         {
+            "Key": "5a0d6cb0-9ce6-4b02-898a-3a82c7cb9a54",
+            "Value": {
+                "id": "460cb1b8-359e-4c4d-8224-8404182e2afe",
+                "resourcePath": "sprites\\spr_PitchforkHB\\spr_PitchforkHB.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b704009-5df9-42e3-8713-7c4bc6300ab6",
             "Value": {
                 "id": "d5107c80-0fc2-4b8d-bbc5-83439686ceda",
@@ -1127,6 +1135,14 @@
             }
         },
         {
+            "Key": "830ff462-2178-4c8a-aa2f-2dd16823983c",
+            "Value": {
+                "id": "09a051c4-efbb-44d7-90ef-94f3cfb486c2",
+                "resourcePath": "sprites\\spr_SwordAttackHB\\spr_SwordAttackHB.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "83ccb10d-bbef-42d6-afe7-e25e5ce6c1af",
             "Value": {
                 "id": "dd103243-edcd-4036-bd99-3898ca6930e9",
@@ -1187,6 +1203,14 @@
             "Value": {
                 "id": "96286959-8c60-4ddc-8a3d-19b61d082003",
                 "resourcePath": "objects\\obj_Cloud\\obj_Cloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ef9c94e-f8a1-4d61-be14-cdaa6bd6cb6d",
+            "Value": {
+                "id": "cbb94260-51f9-4a0d-870b-5f9fcf0ca0a2",
+                "resourcePath": "objects\\obj_SwordHB\\obj_SwordHB.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1783,6 +1807,14 @@
             }
         },
         {
+            "Key": "d809de7b-50f8-4c34-bb5f-96f14bcf6dcb",
+            "Value": {
+                "id": "6ede7289-1902-4781-8e02-d5d1431744e5",
+                "resourcePath": "objects\\Hitbox\\Hitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d82270c9-e864-49d9-87ef-491427f9bc8c",
             "Value": {
                 "id": "6e52060f-43fd-4e3c-9952-a6b35a996727",
@@ -1956,6 +1988,14 @@
                 "id": "605da363-5d1b-46a4-af1e-fccf69064442",
                 "resourcePath": "views\\f1d6bf9b-66b7-466f-ada4-e7b7b821a0b5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3c1cd89-fe28-4ad7-830f-5234231a9d9a",
+            "Value": {
+                "id": "53a2eb0e-5f0c-4aac-bf31-5296422dd610",
+                "resourcePath": "objects\\obj_PitchforkHB\\obj_PitchforkHB.yy",
+                "resourceType": "GMObject"
             }
         },
         {
