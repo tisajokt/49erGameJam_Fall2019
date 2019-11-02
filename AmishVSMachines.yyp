@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "2363e517-0921-4dfb-b5d9-7630e9a3f084",
+            "Value": {
+                "id": "8d1e3506-9c79-42cb-bf1d-226749fe6bca",
+                "resourcePath": "sprites\\spr_SwordIdle\\spr_SwordIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27916c75-5fd3-4477-9af9-13e2f93aa865",
             "Value": {
                 "id": "d6c1d957-f5eb-4bf1-9c89-8257acbd76e0",
@@ -711,6 +719,14 @@
             }
         },
         {
+            "Key": "8fff0396-02bd-4d61-b44b-c26f6f826bf9",
+            "Value": {
+                "id": "78935f21-2bb6-440c-866a-74fe1f00f4b1",
+                "resourcePath": "sprites\\spr_CrossbowIdle\\spr_CrossbowIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "91651695-dec1-4ec1-829f-8be873025210",
             "Value": {
                 "id": "38438b24-6345-4fba-b974-dd3f4a48a9d6",
@@ -779,6 +795,14 @@
             "Value": {
                 "id": "862e5329-fe55-452e-9882-624397a9e27a",
                 "resourcePath": "sprites\\spr_Grasslands_Bg3\\spr_Grasslands_Bg3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "98337897-af25-430c-97fa-9f8340f261e8",
+            "Value": {
+                "id": "b487417d-2773-4f72-a127-a4971af16f8f",
+                "resourcePath": "sprites\\spr_MaceIdle\\spr_MaceIdle.yy",
                 "resourceType": "GMSprite"
             }
         },
