@@ -4,12 +4,9 @@
     "mvc": "1.1",
     "name": "19ad886c-1b63-4a71-abe0-468ceb48606a",
     "children": [
-        "e55e061e-c6e6-4f13-bd48-74b937ba2f70",
-        "b8f10819-241d-4ff3-b622-627b31375e0a",
-        "9f03d54c-d299-46c1-91a5-c4323ce1494a",
-        "d79edc63-2a13-4ec1-9bd4-0838d3309aac",
-        "16f3fe2d-b2da-4cf8-bf9a-af619946c791",
-        "1946a92a-c654-4408-baa4-a29b056482a5"
+        "2aed0a67-326a-4b15-ad3d-64f8c4a7fec7",
+        "1f8f6aea-d2de-4f8d-aeeb-6f29ce7e9688",
+        "3e93af16-e235-4019-b57a-307c86cca2d0"
     ],
     "filterType": "GMSprite",
     "folderName": "Player",
