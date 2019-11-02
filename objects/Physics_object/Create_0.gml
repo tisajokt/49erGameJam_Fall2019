@@ -10,3 +10,6 @@ landing = false;
 is_knocked_back = false; // set to true when the object is taking knockback
 
 facing = 1;
+
+kbx = 0;
+kby = 0;
