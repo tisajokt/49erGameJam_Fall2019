@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "24387b8f-2f4a-46ea-ad56-1332b3a45f6d",
+            "Value": {
+                "id": "a50b630a-4643-45bf-bbb9-ee0a646fd46c",
+                "resourcePath": "objects\\obj_MacePickUp\\obj_MacePickUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25b831ba-dc61-45fa-8957-20c5b1e00fa8",
             "Value": {
                 "id": "45c17b1c-0968-43b0-a417-85e0f48d14e9",
@@ -415,6 +423,14 @@
             }
         },
         {
+            "Key": "544e14a4-1a45-44d3-aceb-70c555abf6fc",
+            "Value": {
+                "id": "a53300c6-a704-451c-99fa-249cadbf3d4a",
+                "resourcePath": "sprites\\spr_SwordAttack\\spr_SwordAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54754a22-264f-42f6-84df-7301adf17065",
             "Value": {
                 "id": "9920d4e1-cf26-4b4e-b21d-a8cc30e514a2",
@@ -444,6 +460,14 @@
                 "id": "2c5e6268-f97d-48a5-9846-eafdf6830214",
                 "resourcePath": "views\\5903bda4-7dd4-4268-b9f9-93e43054e7bc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a92d8d3-7b31-4420-bef7-06d73c30d4c2",
+            "Value": {
+                "id": "6883ee06-32b7-4626-aff7-1e66004a4fb5",
+                "resourcePath": "objects\\obj_SwordPickUp\\obj_SwordPickUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1047,6 +1071,14 @@
             }
         },
         {
+            "Key": "c5fcbc5d-0468-41a5-a2f7-186a5cfbeee1",
+            "Value": {
+                "id": "1efa25ef-0619-48c8-aa75-a7fa4039f133",
+                "resourcePath": "views\\c5fcbc5d-0468-41a5-a2f7-186a5cfbeee1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c76b8b5c-1797-48e5-acac-cfe0c71839e6",
             "Value": {
                 "id": "3b42eff9-7516-42ed-a55a-5140c0b27d07",
@@ -1091,6 +1123,14 @@
             "Value": {
                 "id": "ee5caea0-b576-448f-82b1-280536ea5ec6",
                 "resourcePath": "sprites\\spr_Grasslands_Bg2\\spr_Grasslands_Bg2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d861800a-0dde-4382-9eb1-a9c332284075",
+            "Value": {
+                "id": "fb06e6fc-ec28-4e11-8bd3-45b74f1e0a79",
+                "resourcePath": "sprites\\spr_Sword\\spr_Sword.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1223,6 +1263,14 @@
             }
         },
         {
+            "Key": "f7ea560d-277a-4611-9186-dfd317fe162c",
+            "Value": {
+                "id": "3b407a44-ccb9-4255-992f-952aabf47536",
+                "resourcePath": "sprites\\spr_MaceAttack\\spr_MaceAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f9750322-5d45-43e1-b66f-fed07f2c4cab",
             "Value": {
                 "id": "8c0b9b5a-894f-4e41-934f-092d53d264a4",
@@ -1276,6 +1324,14 @@
                 "id": "1010a748-f49e-4cda-9ae1-5f2824d86034",
                 "resourcePath": "sounds\\sfx_player_atk\\sfx_player_atk.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ffccd44e-5b53-4ac1-bd2c-e3e8bc399d9d",
+            "Value": {
+                "id": "ed67ca3d-90a3-4791-bdb0-4567f09f691f",
+                "resourcePath": "sprites\\spr_Mace\\spr_Mace.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

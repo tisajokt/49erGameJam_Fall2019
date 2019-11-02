@@ -1,4 +1,2 @@
-obj_Player.sword = false;
-obj_Player.mace = false;
-obj_Player.crossbow = true;
+obj_Player.weapon = 1;
 instance_destroy();
