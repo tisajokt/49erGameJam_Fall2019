@@ -207,27 +207,11 @@
             }
         },
         {
-            "Key": "1effc167-f795-4858-b1c8-a2bc923a9a95",
-            "Value": {
-                "id": "0bc326f3-d2e4-4279-9ac3-c025e91141f2",
-                "resourcePath": "sprites\\spr_EnemySlime_RollBackward\\spr_EnemySlime_RollBackward.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1f82169a-ec72-4b77-aed4-23b233067709",
             "Value": {
                 "id": "cc960b5d-3f14-4e8b-ad73-ac1eadf5fde3",
                 "resourcePath": "sprites\\spr_MachineGunSlime_Idle\\spr_MachineGunSlime_Idle.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "20b9df6a-2c47-4f38-8a77-7b142628ecf4",
-            "Value": {
-                "id": "485cfe2d-ddca-45d6-9161-d6d36ecd4b37",
-                "resourcePath": "objects\\obj_Slime_Spawner\\obj_Slime_Spawner.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -279,14 +263,6 @@
             }
         },
         {
-            "Key": "28d4c81c-75d1-4510-81d0-cdcee5134a37",
-            "Value": {
-                "id": "cce11011-7673-44ba-9b4e-fb411f72fd5c",
-                "resourcePath": "sprites\\spr_SpawnerSlime\\spr_SpawnerSlime.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2aed0a67-326a-4b15-ad3d-64f8c4a7fec7",
             "Value": {
                 "id": "c0fee025-f865-40ab-bed4-0a8705f1b457",
@@ -311,34 +287,10 @@
             }
         },
         {
-            "Key": "2cd072c5-f58a-4381-9946-bba015f78ab0",
-            "Value": {
-                "id": "c0023eb8-57d5-48b6-b648-e4df59cd6774",
-                "resourcePath": "sprites\\spr_BossAnimation\\spr_BossAnimation.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2e2ec4be-ebe9-4b15-81d0-d7b7977b0b24",
-            "Value": {
-                "id": "8d72f27f-7cf1-4ae0-996d-d8f00645eb50",
-                "resourcePath": "objects\\obj_Attack_Air\\obj_Attack_Air.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "30233f0c-af36-4efe-9a7a-ae81cd4f65dd",
             "Value": {
                 "id": "703723de-5d15-4861-b038-743fead6f068",
                 "resourcePath": "sprites\\spr_SlimeCharger_Idle\\spr_SlimeCharger_Idle.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "32b5236b-a856-4dee-8e76-7d86f5392e8b",
-            "Value": {
-                "id": "d1e08305-5ce5-4bb7-9816-f18f3d1c57ab",
-                "resourcePath": "sprites\\spr_Suislime_Jump_Falling\\spr_Suislime_Jump_Falling.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -767,14 +719,6 @@
             }
         },
         {
-            "Key": "93c3c1ae-7782-449d-ad92-41a227648cfb",
-            "Value": {
-                "id": "584c8364-c3ae-46f0-9c81-19e7d623cf6a",
-                "resourcePath": "sprites\\spr_Suislime_Idle\\spr_Suislime_Idle.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9477a001-9a32-4683-b2d3-09a362f5cd72",
             "Value": {
                 "id": "68609551-8f41-48db-b5cb-a7d55461e3ac",
@@ -919,14 +863,6 @@
             }
         },
         {
-            "Key": "a9bcf81e-f7d1-46a4-857c-30c71c7c27ac",
-            "Value": {
-                "id": "fd5af689-f007-4109-8758-eaaec0538ecb",
-                "resourcePath": "objects\\obj_Attack_Earth\\obj_Attack_Earth.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "aa0ac39d-acba-428e-bf27-c50537cfdfab",
             "Value": {
                 "id": "4ef7d561-3235-47e1-bd5b-e0d5003f9d86",
@@ -947,14 +883,6 @@
             "Value": {
                 "id": "46077e68-b646-4ff2-a351-afd6dc96b4e7",
                 "resourcePath": "sprites\\spr_Slimezooka_Projectile\\spr_Slimezooka_Projectile.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ad314050-254f-4dd7-84ef-9422e16146ca",
-            "Value": {
-                "id": "9af6d6e1-a9ea-40fc-b72c-77710fd0ab21",
-                "resourcePath": "sprites\\spr_Sui_Slime\\spr_Sui_Slime.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1020,14 +948,6 @@
                 "id": "85889eec-f60b-494f-b0a3-fd91291ea7a0",
                 "resourcePath": "views\\b7fe645b-a417-4b3c-a609-c7e7f4e46baf.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b8677502-f4b1-48b0-92df-a908bcbecbcb",
-            "Value": {
-                "id": "dc12e76c-2fa8-4c9b-98dc-f48ef79d8c1f",
-                "resourcePath": "sprites\\spr_Suislime_Charging\\spr_Suislime_Charging.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1255,14 +1175,6 @@
             }
         },
         {
-            "Key": "e25fa086-4a08-4d37-8fb9-2bb2315157e5",
-            "Value": {
-                "id": "e338213f-2209-44b9-97b3-17b0252b2473",
-                "resourcePath": "scripts\\scr_BossAttack\\scr_BossAttack.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e279e7be-b0f3-4b87-a3ab-e1578f054102",
             "Value": {
                 "id": "a92f8fd1-7e54-4410-8ee7-b389dec078f8",
@@ -1284,14 +1196,6 @@
                 "id": "a959e80d-1b9c-4f13-ad29-43906425a003",
                 "resourcePath": "sounds\\sfx_player_low\\sfx_player_low.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "edc63884-b2fc-4b57-bbc7-bdaa09a74611",
-            "Value": {
-                "id": "17c2cd5b-92a4-490f-ba8d-6800b5e2312b",
-                "resourcePath": "sprites\\spr_Suislime_Jump_Rising\\spr_Suislime_Jump_Rising.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1372,14 +1276,6 @@
                 "id": "50b01c44-079a-4a2a-bc48-f076850b265a",
                 "resourcePath": "sounds\\sfx_item\\sfx_item.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "faf2b2b5-aecd-4c76-b1b4-c403e8b8097e",
-            "Value": {
-                "id": "90c2f483-6821-4eca-b947-1f90f5a7bb36",
-                "resourcePath": "sprites\\spr_PropellerSlime\\spr_PropellerSlime.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
