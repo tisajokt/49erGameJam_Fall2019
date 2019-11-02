@@ -39,14 +39,39 @@ if(playerHealth == 0){
 	instance_destroy();
 }
 
+if(hasWeapon && wH == 0) {
+	playerHealth = playerHealth + 1;
+	wH++
+}
 
-if (armor == 1) {
+
+if (armor == 1 && aH1 == 0) {
+	playerHealth += 1;
+	aH1++;
+}
+if (armor == 2 && aH2 == 0) {
 	playerHealth += 2;
-}
-if (armor == 2) {
-	playerHealth += 3;
+	aH2++;
 }
 
+if (armor == 3) {
+    shieldTimer++;
+	if(shieldTimer >= 940) {
+		armor = 0;
+	}
+} else {
+	shieldTimer = 0;
+}
+
+if (armor == 4) {
+    basketTimer++;
+	show_debug_message(string(shieldTimer));
+	if(basketTimer >= 1200) {
+		armor = 0;
+	}
+} else {
+	baskeTimer = 0;
+}
 
 #region Attacking
 if(input_attack && can_attack){

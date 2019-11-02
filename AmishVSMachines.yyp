@@ -229,25 +229,6 @@
             }
         },
         {
-            "Key": "0b697c71-c65f-4b38-b636-5a903b3a75ed",
-            "Value": {
-                "id": "9cbd927d-c8f5-4997-9a58-2442464af765",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_wooden_shield_pickup\/obj_wooden_shield_pickup.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0c5c4da1-58c8-44da-b4dd-765b77673759",
             "Value": {
                 "id": "fa162a25-b00c-43a2-8be4-dd436dec8bf9",
@@ -1426,6 +1407,25 @@
             }
         },
         {
+            "Key": "67f24d31-0c50-4842-98fd-0b2adad36fbd",
+            "Value": {
+                "id": "d15cf386-80dd-4078-ab76-c7f609e644aa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_weapon\/spr_weapon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6881865c-3152-424d-8be1-a1ae69c790a0",
             "Value": {
                 "id": "c5f597d6-abb2-4207-85a4-9e344b6bd091",
@@ -1825,6 +1825,25 @@
             }
         },
         {
+            "Key": "8d1575fd-1834-4f2c-8311-704e6850b629",
+            "Value": {
+                "id": "392d3e98-9de1-4c20-a191-efc4ae7aa054",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_weapon\/obj_weapon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d27c81a-e9ee-4ed1-841d-075f38f89d2a",
             "Value": {
                 "id": "0d12d57e-f94c-47e2-a7f1-afd2a1d6fe0d",
@@ -2106,6 +2125,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_Paralaxing_Bg\/obj_Paralaxing_Bg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9bd1dc77-201b-47aa-ac4c-5a67c6100fae",
+            "Value": {
+                "id": "248579d8-662b-4d1b-aecd-1a8ca1c3935c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_wooden_shield_pickup\/obj_wooden_shield_pickup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2810,6 +2848,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0354955-787b-4b0d-a666-fb9707265e8a",
+            "Value": {
+                "id": "ea2f5504-517e-4084-b6cb-e6673c4020a8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_weaponequipped\/spr_weaponequipped.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

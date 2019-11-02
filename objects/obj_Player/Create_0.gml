@@ -18,13 +18,15 @@ maxAirJumps = 1;
 
 //armor 
 armor = 0;
-leather = false;
-metal = false;
-shield = false;
-basket = false;
 playerHealth = 1;
 attack_damage = 5;
-
+hasShield = false;
+shieldTimer = 0;
+basketTimer = 0;
+hasWeapon = false;
+wH = 0;
+aH1 = 0;
+aH2 = 0;
 playerInvinciblity = false;
 
 hands = instance_create_depth(x, y, depth-1, obj_Hands);
