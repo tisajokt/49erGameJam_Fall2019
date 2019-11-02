@@ -6,7 +6,7 @@ active = true;
 
 //movement
 canJump = true;
-spd = 0.7;
+spd = 1;
 facing = 1;
 
 canFire = true;
