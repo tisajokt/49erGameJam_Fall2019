@@ -1,5 +1,5 @@
 if(state == 1){
-	y -= 1;
+	y -= 2;
 }
 else{
 	if(update){
