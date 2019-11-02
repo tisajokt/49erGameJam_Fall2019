@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "19b86ac3-2d39-4703-95d0-03138708676a",
+            "Value": {
+                "id": "5436772f-30e2-47a3-bbd8-b9da7a656338",
+                "resourcePath": "sprites\\spr_Laser\\spr_Laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1a5cc88b-1500-44f3-bde1-ca68741c1753",
             "Value": {
                 "id": "30b52e5b-9e7d-4d36-8557-12dbaae19f83",
@@ -215,6 +223,22 @@
             }
         },
         {
+            "Key": "2157c8b9-8272-4670-8036-f5381f7a6fd7",
+            "Value": {
+                "id": "daa37a1f-ac42-4b3a-ac36-b089b9ec1cd9",
+                "resourcePath": "views\\2157c8b9-8272-4670-8036-f5381f7a6fd7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "220282eb-55f1-41bb-ba73-b805195fd5ff",
+            "Value": {
+                "id": "8d47144a-b52a-4a09-85d5-2db130f8ff9b",
+                "resourcePath": "objects\\obj_CrossbowPickUp\\obj_CrossbowPickUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "22098e19-92de-48de-bdec-803cb54c361e",
             "Value": {
                 "id": "f8afdd73-e182-4f41-8871-8c6e3c1adc59",
@@ -236,6 +260,14 @@
                 "id": "8d1e3506-9c79-42cb-bf1d-226749fe6bca",
                 "resourcePath": "sprites\\spr_SwordIdle\\spr_SwordIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "23f43af9-9a16-4ef0-84f6-9ff8a642b0a7",
+            "Value": {
+                "id": "83d2fd05-c210-4ed4-9539-2edaf2cfe2bd",
+                "resourcePath": "views\\23f43af9-9a16-4ef0-84f6-9ff8a642b0a7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -415,6 +447,14 @@
             }
         },
         {
+            "Key": "50c6cbdf-166f-4b8c-9d39-68f0a7a83d0c",
+            "Value": {
+                "id": "49605d86-b565-4b5e-8c99-6b0c5d194d16",
+                "resourcePath": "objects\\obj_MacePickUp1\\obj_MacePickUp1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54754a22-264f-42f6-84df-7301adf17065",
             "Value": {
                 "id": "9920d4e1-cf26-4b4e-b21d-a8cc30e514a2",
@@ -427,6 +467,14 @@
             "Value": {
                 "id": "3d6ccde7-2ba2-40d2-bb46-f93dcf9213ea",
                 "resourcePath": "sprites\\spr_ManaPotion\\spr_ManaPotion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "58a74b29-85e3-4bc5-97b7-f7ff2a54d1ae",
+            "Value": {
+                "id": "8801b879-8b71-4076-93da-2934d7b6d337",
+                "resourcePath": "sprites\\spr_Crossbolt\\spr_Crossbolt.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -511,6 +559,14 @@
             }
         },
         {
+            "Key": "6ac971ae-4b63-45cd-b27f-cbb39c665270",
+            "Value": {
+                "id": "5d6ba114-88df-4781-96f9-4455334bd795",
+                "resourcePath": "sprites\\Drone\\Drone.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d63f2ec-40da-4982-ab1f-22fb38b3b1d0",
             "Value": {
                 "id": "825a2162-e0cd-4591-a0d6-27aec9d5abb2",
@@ -540,6 +596,14 @@
                 "id": "89ba1549-1b14-4c8d-b871-2a8a575fa36c",
                 "resourcePath": "sounds\\bgm_level\\bgm_level.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7160dd80-2950-4b18-be33-7bed0fefbae9",
+            "Value": {
+                "id": "1e070d3f-adad-4375-9db8-337d0e1d68d0",
+                "resourcePath": "views\\7160dd80-2950-4b18-be33-7bed0fefbae9.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -580,6 +644,14 @@
                 "id": "211db323-23c2-4eb9-9808-c25782b70728",
                 "resourcePath": "shaders\\shdr_paletteSwap\\shdr_paletteSwap.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "762ccdd4-c1d3-4bff-873b-056023741e1d",
+            "Value": {
+                "id": "0baf7e7a-8a4f-4c0b-9b00-c0a55ab3392c",
+                "resourcePath": "objects\\obj_BasicAttack\\obj_BasicAttack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -775,6 +847,22 @@
             }
         },
         {
+            "Key": "99054974-f197-4724-920d-2933db6eb7c5",
+            "Value": {
+                "id": "e90ef3d2-5e82-41da-abad-6e51429a9031",
+                "resourcePath": "sprites\\spr_Sword\\spr_Sword.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9917dfb0-1355-4a8d-a218-5cd10a784058",
+            "Value": {
+                "id": "7a57eb05-dbf8-42ed-ae66-5557fbef34aa",
+                "resourcePath": "sprites\\spr_BasicAttacks\\spr_BasicAttacks.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9b9bcecb-d530-44e3-9bd3-092301501aea",
             "Value": {
                 "id": "5d6531a5-1c63-489f-86be-ebb6804a83d9",
@@ -828,6 +916,14 @@
                 "id": "34189b11-430d-4790-8d87-77f54661bfc1",
                 "resourcePath": "sprites\\spr_PitchforkIdle\\spr_PitchforkIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a6f6094e-ad40-47f4-abbe-82c105d93526",
+            "Value": {
+                "id": "998f7461-5f1d-4246-8a86-73353a7e138b",
+                "resourcePath": "objects\\obj_CrossbowBolt\\obj_CrossbowBolt.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1023,6 +1119,14 @@
             }
         },
         {
+            "Key": "c0d7ba6d-2d26-4f12-a67f-c9584df076bd",
+            "Value": {
+                "id": "9dded16f-85da-4ef3-84ba-9b1ac415ede6",
+                "resourcePath": "sprites\\spr_Crossbow1\\spr_Crossbow1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c20a2814-62bd-4478-81f2-7dfc5c5c9898",
             "Value": {
                 "id": "3cf472c2-b56e-49b5-adeb-778a77f57830",
@@ -1068,6 +1172,14 @@
                 "id": "656001c4-9d53-46e7-9be2-d3fb815d200e",
                 "resourcePath": "views\\c8884265-9426-49d2-92c1-6e6edfc6a1df.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ca865770-b902-4d20-a742-27a1cad95ad4",
+            "Value": {
+                "id": "33c951ba-3564-41d2-ad3f-c73df3f499b7",
+                "resourcePath": "sprites\\spr_Mace1\\spr_Mace1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1199,6 +1311,22 @@
             }
         },
         {
+            "Key": "e9efc1b7-03cb-4ac8-8d86-f2f515d2181e",
+            "Value": {
+                "id": "7b894713-cd05-4533-acb8-eb0d6b5c2eae",
+                "resourcePath": "objects\\obj_SwordPickUp1\\obj_SwordPickUp1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ec3e0f41-0ab7-449e-9399-7fc2b9da8f0a",
+            "Value": {
+                "id": "13ae74c8-4550-415e-a10d-a81aacc8b8c9",
+                "resourcePath": "objects\\obj_Laser\\obj_Laser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ee774a64-285c-4cb7-99ec-c317e501a872",
             "Value": {
                 "id": "cbb096ce-d67d-4810-8c7d-cbc3c8f8b32e",
@@ -1284,6 +1412,14 @@
                 "id": "56b2a350-d706-488a-b6f5-a9de2b0c6de1",
                 "resourcePath": "sprites\\spr_Grasslands_Static2\\spr_Grasslands_Static2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fca70de0-34e5-4f3e-b72a-39327fb01f89",
+            "Value": {
+                "id": "8fdc83ef-3d90-491d-9fe1-649bdb02e454",
+                "resourcePath": "objects\\obj_Drone\\obj_Drone.yy",
+                "resourceType": "GMObject"
             }
         },
         {

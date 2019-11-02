@@ -1,18 +1,18 @@
 {
-    "id": "0a9dde42-6bd8-4c81-a536-88aeb780dce8",
+    "id": "220282eb-55f1-41bb-ba73-b805195fd5ff",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_CrossbowPickUp",
     "eventList": [
         {
-            "id": "ed881554-cf24-4135-a7bd-21f1778db077",
+            "id": "43ea2a4e-04f2-40f2-a9fd-e023083eaf7d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "05304629-14d3-4ac1-a669-d9f0a6082837",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "0a9dde42-6bd8-4c81-a536-88aeb780dce8"
+            "m_owner": "220282eb-55f1-41bb-ba73-b805195fd5ff"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "31bc9549-6068-49e9-9416-cfb3143ed0b0",
+    "spriteId": "c0d7ba6d-2d26-4f12-a67f-c9584df076bd",
     "visible": true
 }

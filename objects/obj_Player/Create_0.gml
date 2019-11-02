@@ -19,7 +19,6 @@ enum move_state{
 	attack
 }
 
-canAirJump = false;
 numAirJumps = 1;
 maxAirJumps = 1;
 
@@ -37,6 +36,10 @@ enum hat_names{
 
 // weapons
 weapon = 0;
+
+
+
+hits = 1;
 
 hands = instance_create_depth(x, y, depth-1, obj_Hands);
 hat = instance_create_depth(x, y, depth-2, obj_Hat);
