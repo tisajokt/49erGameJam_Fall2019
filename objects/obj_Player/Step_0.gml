@@ -49,16 +49,7 @@ if(input_attack && can_attack){
 event_inherited();
 
 #region Visuals
-image_xscale = facing;
-if(velocity_x != 0 && (grounded || landing)){
-	sprite_index = spr_player_run;
-} else if(velocity_x = 0 && (grounded || landing)){
-	sprite_index = spr_player_idle;
-} else if(velocity_y != 0){
-	sprite_index = spr_player_jump;
-} if(!can_attack && (grounded || landing)){
-	sprite_index = spr_player_attack;
-}
+
 
 
 // Change the color of the wizard

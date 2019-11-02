@@ -20,3 +20,5 @@ attack_damage = 5;
 
 playerInvinciblity = false;
 
+hands = instance_create_depth(x, y, depth-1, obj_Hands);
+hat = instance_create_depth(x, y, depth-2, obj_Hat);
