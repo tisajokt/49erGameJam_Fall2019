@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 /// @description Mostly Collisions
 
 wasGrounded = grounded;
@@ -9,11 +6,6 @@ prev_velocity_y = velocity_y;
 velocity_y += gravity_scale;
 // collision with wall
 #region Collision with walls
-
-
-
-
-
 if(place_meeting(x, y + velocity_y, obj_Wall)) {
 	while(!place_meeting(x, y + sign(velocity_y), obj_Wall)) {
 		y += sign(velocity_y);

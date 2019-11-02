@@ -1,11 +1,10 @@
-// @description Player Controls
+/// @description Player Controls
 
 // Get Inputs
-scr_GetInput();
+scr_GetInputs(0);
 
 #region Movement
 // Set velocity_x
-
 if(can_move){
 	velocity_x = (input_right - input_left) * spd;
 } else {
@@ -35,6 +34,7 @@ if(velocity_y > 0){
 #endregion
 
 
+
 #region Attacking
 if(input_attack && can_attack){
 	can_attack = false;
@@ -42,14 +42,14 @@ if(input_attack && can_attack){
 	
 	//scr_Attack();
 }
+
 #endregion
 
 // Physics calculations
 event_inherited();
 
 #region Visuals
-/*
-//image_xscale = facing;
+image_xscale = facing;
 if(velocity_x != 0 && (grounded || landing)){
 	sprite_index = spr_player_run;
 } else if(velocity_x = 0 && (grounded || landing)){
@@ -58,7 +58,7 @@ if(velocity_x != 0 && (grounded || landing)){
 	sprite_index = spr_player_jump;
 } if(!can_attack && (grounded || landing)){
 	sprite_index = spr_player_attack;
-}*/
+}
 
 
 // Change the color of the wizard

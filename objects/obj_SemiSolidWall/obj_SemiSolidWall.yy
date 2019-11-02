@@ -1,5 +1,5 @@
 {
-    "id": "ec6896f5-8e4e-491e-9faa-adce30455950",
+    "id": "f6d8ccd9-fe54-41e4-a0b3-04fd94ac30d6",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_SemiSolidWall",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "94c3a489-1fd3-4197-95ab-8f24619f6164",
-    "visible": true
+    "spriteId": "cb4b56cd-3ce6-4d7a-960b-de59302c41c1",
+    "visible": false
 }
