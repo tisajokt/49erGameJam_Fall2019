@@ -40,7 +40,7 @@ if(input_attack && can_attack){
 	can_attack = false;
 	alarm[1] = attackTimer;
 	
-	//scr_Attack();
+	scr_Attack();
 }
 
 #endregion
@@ -51,13 +51,13 @@ event_inherited();
 #region Visuals
 image_xscale = facing;
 if(velocity_x != 0 && (grounded || landing)){
-	sprite_index = spr_player_run;
+	//sprite_index = spr_player_run;
 } else if(velocity_x = 0 && (grounded || landing)){
-	sprite_index = spr_player_idle;
+	//sprite_index = spr_player_idle;
 } else if(velocity_y != 0){
-	sprite_index = spr_player_jump;
+	//sprite_index = spr_player_jump;
 } if(!can_attack && (grounded || landing)){
-	sprite_index = spr_player_attack;
+	//sprite_index = spr_player_attack;
 }
 
 

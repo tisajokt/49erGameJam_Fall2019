@@ -1,4 +1,4 @@
-/// @description Ends stun / bubblePrison
-bubblePrison = false;
+/// @description Ends stun
+
 stun = false;
 active = true;

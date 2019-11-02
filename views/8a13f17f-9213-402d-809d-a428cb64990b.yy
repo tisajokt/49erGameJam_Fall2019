@@ -4,10 +4,11 @@
     "mvc": "1.1",
     "name": "8a13f17f-9213-402d-809d-a428cb64990b",
     "children": [
-        "c8884265-9426-49d2-92c1-6e6edfc6a1df"
+        "2995c4d2-eee3-46ea-88cf-253aab9f14da",
+        "57d978e5-4d79-4ff3-bb53-a0300d9e115e"
     ],
     "filterType": "GMObject",
-    "folderName": "Attacks and Specials",
+    "folderName": "Attacks",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
