@@ -39,7 +39,7 @@ weapon = 0;
 
 white_flash = false;
 
-hits = 300;
+hits = 3;
 stun = false;
 
 hands = instance_create_depth(x, y, depth-1, obj_Hands);
