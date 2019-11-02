@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "4fda8768-89a9-4c36-8af7-ac73f1c4682e",
+            "Value": {
+                "id": "58dcecc7-9172-441a-b906-12a7e3f0a255",
+                "resourcePath": "sprites\\spr_PlayerCrossbowAttack\\spr_PlayerCrossbowAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "521bf715-3216-4f13-827b-6c19dfdaa5ac",
             "Value": {
                 "id": "bb5b3fe5-2f31-439a-b154-dde1b6c730f1",
@@ -1236,14 +1244,6 @@
                 "id": "a3327d03-53a5-4a9e-8a09-3eb5eb89b68c",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cd4165f9-9d53-4533-abaf-56324e78a8fd",
-            "Value": {
-                "id": "bf23c30e-4775-491d-b4f3-36dd9dfecef8",
-                "resourcePath": "sprites\\spr_PlayerCrossbow\\spr_PlayerCrossbow.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

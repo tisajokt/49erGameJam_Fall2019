@@ -69,6 +69,20 @@
             "value": "0",
             "varName": "move_state",
             "varType": 0
+        },
+        {
+            "id": "107d40ac-bb75-4fee-8d76-69c0c8feea60",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "weapon",
+            "varType": 0
         }
     ],
     "solid": false,
