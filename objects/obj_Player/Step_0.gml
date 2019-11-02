@@ -11,6 +11,11 @@ if(can_move){
 	velocity_x = 0;
 }
 
+if(hits == 0){
+	instance_destroy();
+}
+
+
 // Set facing
 if(velocity_x != 0){
 	facing = sign(velocity_x);
@@ -39,8 +44,7 @@ if(velocity_y > 0){
 if(input_attack && can_attack){
 	can_attack = false;
 	alarm[1] = attackTimer;
-	
-	//scr_Attack();
+	scr_Attack();
 }
 
 #endregion
@@ -49,9 +53,12 @@ if(input_attack && can_attack){
 event_inherited();
 
 #region Visuals
-image_xscale = facing;
-hat.image_xscale = facing;
-hands.image_xscale = facing;
+
+if(instance_exists(obj_Hands) && (instance_exists(obj_Hat))){
+	image_xscale = facing;
+	hat.image_xscale = facing;
+	hands.image_xscale = facing;
+}
 
 if(velocity_x = 0 && grounded) {
 	sprite_index = spr_PlayerIdle;

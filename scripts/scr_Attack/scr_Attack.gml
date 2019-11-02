@@ -13,7 +13,6 @@
 */
 
 
-
 if(obj_Player.weapon == 1){
 	instance_create_depth(x + obj_Player.attack_offset * obj_Player.facing, y + 2, 100, obj_CrossbowBolt);
 }

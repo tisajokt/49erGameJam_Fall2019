@@ -10,7 +10,7 @@ else{
 
 
 if(place_meeting(x, y, obj_Player)){
-	scr_DamagePlayer(damage);
+	obj_Player.hits += -1;
 	instance_destroy();
 }
 
