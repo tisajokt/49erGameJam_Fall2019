@@ -130,6 +130,20 @@
             "value": "100",
             "varName": "mana",
             "varType": 0
+        },
+        {
+            "id": "827d3094-6800-4a18-9d2c-28dd63e35992",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 256,
+            "value": "obj_SpeedHat",
+            "varName": "current_hat",
+            "varType": 5
         }
     ],
     "solid": false,
