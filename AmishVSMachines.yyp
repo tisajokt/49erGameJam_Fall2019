@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "0ed20299-6f46-4334-9f72-6a325e7ae352",
+            "Value": {
+                "id": "e879af5c-2bf2-4975-8b47-8bf2acedd315",
+                "resourcePath": "sprites\\spr_HandbotJump\\spr_HandbotJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0ee6ae94-89d0-47fc-ab93-e9b3a4c856c4",
             "Value": {
                 "id": "63ebd331-bee1-4147-834b-afc58c592eb3",
@@ -727,6 +735,14 @@
             }
         },
         {
+            "Key": "727f3eef-634c-4446-bb2e-c7d522b5bd0c",
+            "Value": {
+                "id": "089a8850-ed8c-480d-a160-817b4371a55f",
+                "resourcePath": "sprites\\spr_HandbotAttack\\spr_HandbotAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "740c07f0-8f42-401e-b445-ff7738d54372",
             "Value": {
                 "id": "51979427-2624-4864-a05e-71bb3e0ac7a0",
@@ -763,6 +779,14 @@
             "Value": {
                 "id": "019f9f20-59ba-4401-96db-8d7b19782694",
                 "resourcePath": "sprites\\spr_GunRobotMove\\spr_GunRobotMove.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7bde73a7-d360-4a18-a3a5-734466569ad6",
+            "Value": {
+                "id": "a2efacc3-b216-4f82-b87d-502e297557f5",
+                "resourcePath": "sprites\\spr_HandbotRun\\spr_HandbotRun.yy",
                 "resourceType": "GMSprite"
             }
         },
