@@ -1351,6 +1351,14 @@
             }
         },
         {
+            "Key": "cc8c192d-261d-4d95-aaf0-9f46079830ea",
+            "Value": {
+                "id": "24ce4b27-1b0c-48e7-b7f8-2f52296876a5",
+                "resourcePath": "sprites\\spr_DroneIdle\\spr_DroneIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a3327d03-53a5-4a9e-8a09-3eb5eb89b68c",
@@ -1492,6 +1500,14 @@
                 "id": "a959e80d-1b9c-4f13-ad29-43906425a003",
                 "resourcePath": "sounds\\sfx_player_low\\sfx_player_low.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "eb135bcc-a819-4d87-b40e-b62988720945",
+            "Value": {
+                "id": "de42f2e9-02e3-492c-9fb6-a0f54b35b7a5",
+                "resourcePath": "sprites\\spr_DroneLaserGun\\spr_DroneLaserGun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
