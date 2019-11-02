@@ -1,0 +1,31 @@
+
+// Inherit the parent event
+event_inherited();
+
+hitpoints = max_hitpoints;
+changeTimer = 15;
+can_switch = true;
+attackTimer = 20;
+can_attack = true;
+attack_offset = 4;
+
+
+static_gravity_scale = gravity_scale; // do not modify
+
+canAirJump = false;
+numAirJumps = 1;
+maxAirJumps = 1;
+
+//armor 
+armor = 0;
+leather = false;
+metal = false;
+shield = false;
+basket = false;
+playerHealth = 1;
+attack_damage = 5;
+
+playerInvinciblity = false;
+
+hands = instance_create_depth(x, y, depth-1, obj_Hands);
+hat = instance_create_depth(x, y, depth-2, obj_Hat);
