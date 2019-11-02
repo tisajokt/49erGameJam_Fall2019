@@ -63,7 +63,7 @@ else if(velocity_x != 0 && grounded) {
 	hands.move_state = move_state.running;
 	hat.move_state = move_state.running;
 }
-
+hands.weapon = weapon;
 
 // Change the color of the wizard
 

@@ -55,6 +55,20 @@
             "value": "0",
             "varName": "hat_num",
             "varType": 1
+        },
+        {
+            "id": "bb9c068e-117b-4f6a-8b1e-41ee866a43bf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "move_state",
+            "varType": 0
         }
     ],
     "solid": false,
