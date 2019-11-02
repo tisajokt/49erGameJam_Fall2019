@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "3563f9a4-3e9f-44ee-8294-e422383c2b04",
+            "Value": {
+                "id": "e2d93b92-6a5d-43ea-b769-796b62ef87a8",
+                "resourcePath": "sprites\\spr_PitchforkRun\\spr_PitchforkRun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3606ad6f-946b-4632-afcc-5a3120def6c0",
             "Value": {
                 "id": "86efbe82-8a07-4567-ba4f-6ab3641666fd",
@@ -671,6 +679,14 @@
             }
         },
         {
+            "Key": "82abd8f3-17bb-466d-9d8f-ee3886861368",
+            "Value": {
+                "id": "702dad7c-ec6d-411c-a169-3c140d7e8e4f",
+                "resourcePath": "sprites\\spr_SwordRun\\spr_SwordRun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "83ccb10d-bbef-42d6-afe7-e25e5ce6c1af",
             "Value": {
                 "id": "dd103243-edcd-4036-bd99-3898ca6930e9",
@@ -932,6 +948,14 @@
                 "id": "fd5af689-f007-4109-8758-eaaec0538ecb",
                 "resourcePath": "objects\\obj_Attack_Earth\\obj_Attack_Earth.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aa0ac39d-acba-428e-bf27-c50537cfdfab",
+            "Value": {
+                "id": "4ef7d561-3235-47e1-bd5b-e0d5003f9d86",
+                "resourcePath": "sprites\\spr_CrossbowRun\\spr_CrossbowRun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

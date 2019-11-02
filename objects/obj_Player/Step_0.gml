@@ -49,7 +49,20 @@ if(input_attack && can_attack){
 event_inherited();
 
 #region Visuals
+image_xscale = facing;
+hat.image_xscale = facing;
+hands.image_xscale = facing;
 
+if(velocity_x = 0 && grounded) {
+	sprite_index = spr_PlayerIdle;
+	hands.move_state = move_state.idle;
+	hat.move_state = move_state.idle;
+	}
+else if(velocity_x != 0 && grounded) {
+	sprite_index = spr_PlayerRun;
+	hands.move_state = move_state.running;
+	hat.move_state = move_state.running;
+}
 
 
 // Change the color of the wizard
