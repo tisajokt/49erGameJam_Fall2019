@@ -16,6 +16,10 @@ switch(hat_num){
 					sprite_index = spr_BaseHatSwordAttack;
 					break;
 			}
+		} else if(move_state = move_state.jump_falling){
+			sprite_index = spr_BaseHatJumpFalling;
+		} else if(move_state = move_state.jump_rising){
+			sprite_index = spr_BaseHatJumpRising;
 		}
 		break;
 	case 1: //speed hat

@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "056fd39e-2d2f-4fe5-b1c6-930d337cd03d",
+            "Value": {
+                "id": "29b0da96-a803-48a4-876c-e7bf78f1d9a9",
+                "resourcePath": "sprites\\spr_BaseHatJumpFalling\\spr_BaseHatJumpFalling.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05e53989-2102-4e62-b0fb-17eac684e2ba",
             "Value": {
                 "id": "a892ab5a-7e33-484d-bb63-adf80673f09d",
@@ -164,6 +172,22 @@
                 "id": "af944e55-e410-4f83-a536-dcab9f51cb3f",
                 "resourcePath": "views\\13da91f1-8112-48fb-a711-075ab962562e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "142de7ce-a64a-4408-98bd-ca0ec375f419",
+            "Value": {
+                "id": "616cff3d-2138-4552-9cf5-93bb957ab942",
+                "resourcePath": "sprites\\spr_SwordJumpRising\\spr_SwordJumpRising.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "15ec5032-8a01-441f-b68e-5a8fb77c7345",
+            "Value": {
+                "id": "05c867cf-be0b-4bdf-87cb-0abf61a8d6bf",
+                "resourcePath": "sprites\\spr_SwordJumpFalling\\spr_SwordJumpFalling.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -331,6 +355,14 @@
             "Value": {
                 "id": "c0023eb8-57d5-48b6-b648-e4df59cd6774",
                 "resourcePath": "sprites\\spr_BossAnimation\\spr_BossAnimation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2e14b0eb-4d20-4288-9738-e7d91d2c5698",
+            "Value": {
+                "id": "4a08d230-65fb-41d4-bbc7-47bff25f4660",
+                "resourcePath": "sprites\\spr_BaseHatJumpRising\\spr_BaseHatJumpRising.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -559,6 +591,14 @@
             }
         },
         {
+            "Key": "628f6f4c-1e3f-4ea9-bd3e-c3d47aee7e99",
+            "Value": {
+                "id": "0f2a57b7-d2d8-4271-9eae-56346ffbd8b7",
+                "resourcePath": "sprites\\spr_PitchforkJumpRising\\spr_PitchforkJumpRising.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "63f57df2-1e2d-41b8-8190-114148d29193",
             "Value": {
                 "id": "144276f7-f369-462e-8173-f0159c86ba75",
@@ -588,6 +628,14 @@
                 "id": "d4aa1446-5039-407a-9da1-53cb091c1f7e",
                 "resourcePath": "views\\66079370-ca0b-4044-954d-214e98018916.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6784621e-f899-4306-a061-5df13e29da84",
+            "Value": {
+                "id": "505e2763-3efe-44b4-8d7f-c77ff75f725c",
+                "resourcePath": "sprites\\spr_PlayerJumpRising\\spr_PlayerJumpRising.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -679,6 +727,14 @@
             }
         },
         {
+            "Key": "779ea929-595e-46dd-84d5-f57dac57a91d",
+            "Value": {
+                "id": "dcf7c2b0-c214-429d-942b-0a329365d0c6",
+                "resourcePath": "sprites\\spr_CrossbowJumpFalling\\spr_CrossbowJumpFalling.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7cc57c92-10a3-4b1d-8f53-d65d65317461",
             "Value": {
                 "id": "5b311a42-ba50-4331-b0b5-603321db396b",
@@ -764,6 +820,14 @@
                 "id": "78b5fdc9-d0b1-4c6a-baad-0113e2b0b51a",
                 "resourcePath": "views\\8a13f17f-9213-402d-809d-a428cb64990b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c2d4967-a434-40e0-aaf0-360cef658c85",
+            "Value": {
+                "id": "55111b77-ee30-46a6-8e04-14c901449bd5",
+                "resourcePath": "sprites\\spr_PlayerJumpFalling\\spr_PlayerJumpFalling.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1231,6 +1295,14 @@
             }
         },
         {
+            "Key": "cb3cbedd-7e6f-4f29-97a8-ae2a8f981fd9",
+            "Value": {
+                "id": "9be3f68e-becd-4f77-b15d-715bf4e61f75",
+                "resourcePath": "sprites\\spr_PitchforkJumpFalling\\spr_PitchforkJumpFalling.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cb4b56cd-3ce6-4d7a-960b-de59302c41c1",
             "Value": {
                 "id": "fdf68f99-9d16-4717-972d-0f07d596e49e",
@@ -1300,6 +1372,14 @@
                 "id": "cec81f83-5501-423e-ae4b-99afa10e40ac",
                 "resourcePath": "sounds\\sfx_sel\\sfx_sel.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "dc25aaae-8ac3-4f18-b40f-cbd101914d8a",
+            "Value": {
+                "id": "a934090a-67f4-46c9-a57e-61591035de36",
+                "resourcePath": "sprites\\spr_CrossbowJumpRising\\spr_CrossbowJumpRising.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

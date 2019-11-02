@@ -102,9 +102,15 @@ if(!can_attack) { //attacking
 	hands.move_state = move_state.running;
 	hat.move_state = move_state.running;
 } else if(!grounded) { //jumping
-	sprite_index = spr_PlayerIdle;
-	hands.move_state = move_state.idle;
-	hat.move_state = move_state.idle;
+	if(velocity_y < 0){
+		sprite_index = spr_PlayerJumpRising;
+		hands.move_state = move_state.jump_rising;
+		hat.move_state = move_state.jump_rising;
+	} else if(velocity_y > 0){
+		sprite_index = spr_PlayerJumpFalling;
+		hands.move_state = move_state.jump_falling;
+		hat.move_state = move_state.jump_falling;
+	}
 }
 hands.weapon = weapon;
 hat.weapon = weapon;
