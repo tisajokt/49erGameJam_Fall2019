@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "500de123-7841-4537-863d-b9fd30cb1bcd",
+            "Value": {
+                "id": "3cb759e9-bb89-4af2-9528-21c7703f3b6d",
+                "resourcePath": "sprites\\spr_GunRobotAttack\\spr_GunRobotAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "521bf715-3216-4f13-827b-6c19dfdaa5ac",
             "Value": {
                 "id": "bb5b3fe5-2f31-439a-b154-dde1b6c730f1",
@@ -655,6 +663,22 @@
             }
         },
         {
+            "Key": "6ade4068-0d10-447e-be1d-c2f2025a41ee",
+            "Value": {
+                "id": "9493bda3-6835-4057-9acb-c41e2a7b713b",
+                "resourcePath": "objects\\obj_RobotDeathExplosion\\obj_RobotDeathExplosion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6d033082-57e0-4a2b-b002-2b2160d3d3d4",
+            "Value": {
+                "id": "002eb87e-21ba-450c-9f1c-43f4770d3fd7",
+                "resourcePath": "sprites\\spr_RobotDeathExplosion\\spr_RobotDeathExplosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d63f2ec-40da-4982-ab1f-22fb38b3b1d0",
             "Value": {
                 "id": "825a2162-e0cd-4591-a0d6-27aec9d5abb2",
@@ -731,6 +755,14 @@
             "Value": {
                 "id": "dcf7c2b0-c214-429d-942b-0a329365d0c6",
                 "resourcePath": "sprites\\spr_CrossbowJumpFalling\\spr_CrossbowJumpFalling.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7aae13a8-0310-43f3-a490-cbbbb2e4e7f2",
+            "Value": {
+                "id": "019f9f20-59ba-4401-96db-8d7b19782694",
+                "resourcePath": "sprites\\spr_GunRobotMove\\spr_GunRobotMove.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -819,6 +851,14 @@
             "Value": {
                 "id": "78b5fdc9-d0b1-4c6a-baad-0113e2b0b51a",
                 "resourcePath": "views\\8a13f17f-9213-402d-809d-a428cb64990b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8bf5eca4-ca9e-4b7d-bca0-4691026bf022",
+            "Value": {
+                "id": "fdfd9a02-a24c-4538-9ddc-cc63eff2cf4e",
+                "resourcePath": "views\\8bf5eca4-ca9e-4b7d-bca0-4691026bf022.yy",
                 "resourceType": "GMFolder"
             }
         },
