@@ -64,6 +64,7 @@ else if(velocity_x != 0 && grounded) {
 	hat.move_state = move_state.running;
 }
 
+
 // Change the color of the wizard
 
 #endregion
