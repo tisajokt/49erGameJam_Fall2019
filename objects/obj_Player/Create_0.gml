@@ -35,9 +35,6 @@ enum hat_names{
 }
 
 // weapons
-weapon = 0;
-
-
 
 hits = 1;
 

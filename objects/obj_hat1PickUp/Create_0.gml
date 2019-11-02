@@ -6,6 +6,6 @@ switch(hat_num){
 		sprite_index = spr_SpeedHat;
 		break;
 	case 2:
-		sprite_index = spr_PowerHat;
+		//sprite_index = spr_PowerHat;
 		break;
 }

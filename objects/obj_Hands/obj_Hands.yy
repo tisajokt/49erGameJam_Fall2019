@@ -15,7 +15,7 @@
             "m_owner": "c20a2814-62bd-4478-81f2-7dfc5c5c9898"
         },
         {
-            "id": "f279ed00-68b6-45d5-9093-4ba40d1d9446",
+            "id": "99228be4-b26c-4c3d-8f2b-0ca29d15c2e9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -41,7 +41,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "d883ce3a-de5a-4833-addb-55ec0a7f691d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "weapon",
+            "varType": 0
+        },
+        {
+            "id": "721c71e3-f810-48af-877c-93f36ad3c61a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "move_state",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

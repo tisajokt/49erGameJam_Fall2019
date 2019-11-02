@@ -154,6 +154,20 @@
             "value": "obj_Hat",
             "varName": "hat",
             "varType": 5
+        },
+        {
+            "id": "6d57968b-24e8-45e9-9503-880c8df42d15",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "weapon",
+            "varType": 0
         }
     ],
     "solid": false,

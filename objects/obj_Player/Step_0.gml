@@ -43,7 +43,21 @@ if(velocity_y > 0){
 #region Attacking
 if(input_attack && can_attack){
 	can_attack = false;
-	alarm[1] = attackTimer;
+	hat.image_index = 0;
+	hands.image_index = 0;
+	image_index = 0;
+	
+	switch(weapon){
+		case 0:
+			alarm[1] = 44;
+			break;
+		case 1:
+			alarm[1] = 52;
+			break;
+		case 2:
+			alarm[1] = 24;
+			break;
+	}
 	scr_Attack();
 }
 
@@ -60,17 +74,45 @@ if(instance_exists(obj_Hands) && (instance_exists(obj_Hat))){
 	hands.image_xscale = facing;
 }
 
-if(velocity_x = 0 && grounded) {
+if(!can_attack) { //attacking
+	switch(weapon){
+		case 0:
+			sprite_index = spr_PlayerPitchforkAttack;
+			hat.move_state = move_state.attack;
+			hands.move_state = move_state.attack;
+			break;
+		case 1:
+			sprite_index = spr_PlayerCrossbowAttack;
+			hat.move_state = move_state.attack;
+			hands.move_state = move_state.attack;
+			break;
+		case 2:
+			sprite_index = spr_PlayerSwordAttack;
+			hat.move_state = move_state.attack;
+			hands.move_state = move_state.attack;
+			break;
+	}
+} else if(velocity_x = 0 && grounded) { // idle
 	sprite_index = spr_PlayerIdle;
 	hands.move_state = move_state.idle;
 	hat.move_state = move_state.idle;
-	}
-else if(velocity_x != 0 && grounded) {
+} else if(velocity_x != 0 && grounded) { //running
 	sprite_index = spr_PlayerRun;
 	hands.move_state = move_state.running;
 	hat.move_state = move_state.running;
+} else if(!grounded) { //jumping
+	if(velocity_y < 0){
+		sprite_index = spr_PlayerJumpRising;
+		hands.move_state = move_state.jump_rising;
+		hat.move_state = move_state.jump_rising;
+	} else if(velocity_y > 0){
+		sprite_index = spr_PlayerJumpFalling;
+		hands.move_state = move_state.jump_falling;
+		hat.move_state = move_state.jump_falling;
+	}
 }
-
+hands.weapon = weapon;
+hat.weapon = weapon;
 
 // Change the color of the wizard
 
