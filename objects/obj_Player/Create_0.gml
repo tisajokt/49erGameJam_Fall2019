@@ -37,7 +37,15 @@ enum hat_names{
 // weapons
 
 hits = 1;
-
+hasShield = false;
+shieldTimer = 0;
+basketTimer = 0;
+hasWeapon = false;
+hasArmor = false;
+wH = 0;
+aH1 = 0;
+aH2 = 0;
+armor = 0;
 hands = instance_create_depth(x, y, depth-1, obj_Hands);
 hat = instance_create_depth(x, y, depth-2, obj_Hat);
 

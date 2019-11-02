@@ -1,18 +1,18 @@
 {
-    "id": "220282eb-55f1-41bb-ba73-b805195fd5ff",
+    "id": "95c192d4-b89e-4c6a-aa53-44079edcca96",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_CrossbowPickUp",
+    "name": "obj_metal_pickup",
     "eventList": [
         {
-            "id": "43ea2a4e-04f2-40f2-a9fd-e023083eaf7d",
+            "id": "341b3d19-fc75-4825-ade6-c494e0135519",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "05304629-14d3-4ac1-a669-d9f0a6082837",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "220282eb-55f1-41bb-ba73-b805195fd5ff"
+            "m_owner": "95c192d4-b89e-4c6a-aa53-44079edcca96"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "cf71bca4-eb58-4d77-ade7-6c7455c59e4d",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

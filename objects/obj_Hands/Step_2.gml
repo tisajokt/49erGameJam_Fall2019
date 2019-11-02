@@ -3,4 +3,5 @@ if(instance_exists(obj_Player)){
 	y = obj_Player.y;
 
 image_xscale = obj_Player.facing;
+
 }

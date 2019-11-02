@@ -8,6 +8,7 @@ input_left = keyboard_check(ord("A"));
 input_right = keyboard_check(ord("D"));
 input_jump = keyboard_check_pressed(vk_space);// || keyboard_check_pressed(ord("W"));
 
+input_drop = keyboard_check(ord("E"));
 
 input_attack = keyboard_check_pressed(ord("J"));
 input_specialAttack1 = keyboard_check_pressed(ord("O"));

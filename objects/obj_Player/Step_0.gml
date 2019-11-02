@@ -30,7 +30,9 @@ if(grounded && input_jump && can_move){
 if(grounded){
 	numAirJumps = maxAirJumps;
 }
-
+if (input_drop && hasWeapon == true) {
+	weapon = 0;
+}
 if(velocity_y > 0){
 	gravity_scale = static_gravity_scale * 1.4;
 } else {
@@ -60,6 +62,40 @@ if(input_attack && can_attack){
 	}
 	scr_Attack();
 }
+
+if (hits == 0) {
+	instance_destroy();
+}
+if (hasWeapon == true && wH == 0) {
+	hits = hits + 1;
+	wH++;
+}
+if (armor == 1 && aH1 == 0) {
+	hits += 1;
+	aH1++;
+}
+if (armor == 2 && aH2 == 0) {
+	hits += 2;
+	aH2++;
+}
+
+if (armor == 3) {
+	shieldTimer++;
+	if (shieldTimer >= 940) {
+		armor = 0;
+	} 
+} else {
+		shieldTimer = 0;
+	}
+	
+	if (armor == 4) {
+		basketTimer++;
+		if(basketTimer >= 1200) {
+			armor = 0;
+		}
+		} else {
+			basketTimer = 0;
+		}
 
 #endregion
 
