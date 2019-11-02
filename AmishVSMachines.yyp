@@ -655,6 +655,14 @@
             }
         },
         {
+            "Key": "4cff0272-c6e7-4080-8a1c-405db03e1177",
+            "Value": {
+                "id": "c20b398c-3ce5-4fff-b127-4610bf55cc64",
+                "resourcePath": "sprites\\spr_PitchforkIdle\\spr_PitchforkIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d68e7c3-81b6-4f12-8d92-2d930bd71ae3",
             "Value": {
                 "id": "c7ec4a04-8716-42ad-b963-6fa238a6c850",
