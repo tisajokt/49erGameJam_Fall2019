@@ -1,7 +1,16 @@
 /// @description Player Controls
 
 // Get Inputs
-scr_GetInputs(0);
+if(!stun){
+	scr_GetInputs(0);
+}
+else{
+	input_right = false;
+	input_left = false;
+	input_jump = false;
+	input_attack = false;
+}
+
 
 #region Movement
 // Set velocity_x
