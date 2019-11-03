@@ -25,3 +25,4 @@ switch(special_effect_type){
 		break;
 }
 has_effect = false;
+stun = false;
