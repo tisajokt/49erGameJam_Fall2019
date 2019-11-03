@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "13cb4dea-ade4-45fb-a121-da4e2488f810",
+            "Value": {
+                "id": "a0180faf-9ed2-4107-b07d-8e314fcaf0b5",
+                "resourcePath": "tilesets\\til_AmishLv1\\til_AmishLv1.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "13da91f1-8112-48fb-a711-075ab962562e",
             "Value": {
                 "id": "af944e55-e410-4f83-a536-dcab9f51cb3f",
@@ -219,6 +227,14 @@
             "Value": {
                 "id": "616cff3d-2138-4552-9cf5-93bb957ab942",
                 "resourcePath": "sprites\\spr_SwordJumpRising\\spr_SwordJumpRising.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1500d32b-5e0c-45b8-810f-dd91bbf47fbe",
+            "Value": {
+                "id": "28fccaeb-3d79-44d6-b1d5-b112d5abd051",
+                "resourcePath": "sprites\\spr_AmishTileSet\\spr_AmishTileSet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -315,6 +331,14 @@
             "Value": {
                 "id": "cc960b5d-3f14-4e8b-ad73-ac1eadf5fde3",
                 "resourcePath": "sprites\\spr_MachineGunSlime_Idle\\spr_MachineGunSlime_Idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "209df3ca-f32c-4d42-85b8-617c3c6ff9fc",
+            "Value": {
+                "id": "f68eb5b1-f346-4688-ab3d-77a86aaf15ca",
+                "resourcePath": "sprites\\spr_Fence\\spr_Fence.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -716,6 +740,14 @@
                 "id": "3258e46e-8a3f-4694-a0ee-9064bd915ad1",
                 "resourcePath": "views\\4c169c72-bf36-425d-87c7-0151c5b1808c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4c291b50-004b-4b0d-9520-42ba7ce6cad5",
+            "Value": {
+                "id": "9b12690d-43cf-46a3-a736-68962048ec45",
+                "resourcePath": "objects\\obj_FireHazard\\obj_FireHazard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1703,10 +1735,26 @@
             }
         },
         {
+            "Key": "b595fcb6-3e4b-4645-95a7-5666f3f3d91d",
+            "Value": {
+                "id": "29f49780-bda1-413f-b8ad-122b650bd36c",
+                "resourcePath": "objects\\obj_ParticleEmitter\\obj_ParticleEmitter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b7fe645b-a417-4b3c-a609-c7e7f4e46baf",
             "Value": {
                 "id": "85889eec-f60b-494f-b0a3-fd91291ea7a0",
                 "resourcePath": "views\\b7fe645b-a417-4b3c-a609-c7e7f4e46baf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b94b5f77-8156-424a-bd57-699e2f9c1b86",
+            "Value": {
+                "id": "db8541b7-9d02-4a2d-8c0e-e17c0823ebef",
+                "resourcePath": "views\\b94b5f77-8156-424a-bd57-699e2f9c1b86.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -2023,6 +2071,14 @@
             }
         },
         {
+            "Key": "dd3ce255-35b5-4fdd-b17f-951636ed0c21",
+            "Value": {
+                "id": "cbddd991-f718-4b70-a5da-7f801d44b866",
+                "resourcePath": "views\\dd3ce255-35b5-4fdd-b17f-951636ed0c21.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e175677c-6945-4329-b36a-292f24a0bfc6",
             "Value": {
                 "id": "7a2b318b-bd72-4fd3-b76c-f398979e6c1c",
@@ -2172,6 +2228,14 @@
                 "id": "2cfa6095-a89b-48a5-8abf-877dd56881d0",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4efa984-4067-4010-a609-e58fb2e1c4b1",
+            "Value": {
+                "id": "3fc22623-5fb0-4724-b030-ee3c913a38e9",
+                "resourcePath": "sprites\\spr_PartFire\\spr_PartFire.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
