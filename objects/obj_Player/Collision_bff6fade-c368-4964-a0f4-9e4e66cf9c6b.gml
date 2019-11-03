@@ -13,9 +13,11 @@ switch(special_effect_type){
 		break;
 	case 1:
 		if(random_value == 0){
-			//Turn on pop music
+			scr_PlayAudio(sfx_4k);
+			
 		}
 		else if(random_value == 1){
+			scr_PlayAudio(sfx_pop_tune);
 			attack_damage += 4;
 		}
 		
@@ -30,4 +32,4 @@ switch(special_effect_type){
 		break;
 }
 has_effect = true;
-alarm[4] = room_speed * 6;
+alarm[5] = room_speed * 6;
