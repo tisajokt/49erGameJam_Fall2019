@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0b6fbb4a-eccb-41b6-9216-cc137c559c39",
+            "Value": {
+                "id": "2e2fd430-5050-49cd-bbce-4c6310734186",
+                "resourcePath": "objects\\obj_endLevel\\obj_endLevel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c5c4da1-58c8-44da-b4dd-765b77673759",
             "Value": {
                 "id": "fa162a25-b00c-43a2-8be4-dd436dec8bf9",
@@ -1580,6 +1588,14 @@
                 "id": "8595e99f-ff75-4815-9263-7c95a05dbcb8",
                 "resourcePath": "sounds\\sfx_spec_expl\\sfx_spec_expl.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a8941bc4-f009-4044-840c-7f8d9c09dcd1",
+            "Value": {
+                "id": "2f42450d-b935-434b-8b6a-9f7b003b1437",
+                "resourcePath": "sprites\\sprite111\\sprite111.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
