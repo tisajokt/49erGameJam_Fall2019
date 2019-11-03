@@ -1666,7 +1666,7 @@
             "Key": "ba4a4c0b-8770-4fe7-996a-2c0c3da8f548",
             "Value": {
                 "id": "e26663bf-3d18-47e3-9216-f8825ab9b84d",
-                "resourcePath": "objects\\obj_Slimezooka\\obj_Slimezooka.yy",
+                "resourcePath": "objects\\obj_GunRobot\\obj_GunRobot.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -2,7 +2,7 @@
     "id": "ba4a4c0b-8770-4fe7-996a-2c0c3da8f548",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Slimezooka",
+    "name": "obj_GunRobot",
     "eventList": [
         {
             "id": "b561ecc3-60aa-472c-9ae7-ef0a0ba6bcb8",
@@ -93,6 +93,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0ed20299-6f46-4334-9f72-6a325e7ae352",
+    "spriteId": "7aae13a8-0310-43f3-a490-cbbbb2e4e7f2",
     "visible": true
 }

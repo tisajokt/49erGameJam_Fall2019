@@ -52,11 +52,11 @@ if(instance_exists(obj_Player)){
 		
 		#region Animations
 		if(animate_attack){
-			sprite_index = spr_Slimezooka_Attack;
+			sprite_index = spr_GunRobotAttack;
 		} else if(velocity_x != 0){
-			sprite_index = spr_Slimesooka_Move;
+			sprite_index = spr_GunRobotMove;
 		} else {
-			sprite_index = spr_Slimezooka_Idle;
+			sprite_index = spr_GunRobotMove;
 		}
 		#endregion
 		
@@ -64,6 +64,6 @@ if(instance_exists(obj_Player)){
 		
 	}
 	else{
-		sprite_index = spr_Slimezooka_Idle;
+		sprite_index = spr_GunRobotMove;
 	}
 }
