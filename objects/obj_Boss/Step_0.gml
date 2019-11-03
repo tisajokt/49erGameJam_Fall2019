@@ -41,17 +41,21 @@ if(instance_exists(obj_Player)){
 				rocketAttack = false;
 				alarm[1] = room_speed * 3;
 			}
+			
+			if(hitpoints < threshold){
+				state = 3;
+			}
 
 		}
 		else if(state == 2){
 			
 			if(meteorAttack){
-				instance_create_layer(x + random_range(-300, 300), y - 300, layer, obj_Satellite);
+				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x + 300), y - 300, layer, obj_Satellite);
 				meteorAttack = false;
 				alarm[6] = room_speed * 0.3;
 			}
 			
-			if(hitpoints < (hitpoints * 0.4)){
+			if(hitpoints < threshold){
 				state = 3;
 			}
 			
@@ -60,7 +64,7 @@ if(instance_exists(obj_Player)){
 		else if(state == 3){
 			
 			if(meteorAttack){
-				instance_create_layer(x + random_range(-300, 300), y - 300, layer, obj_Satellite);
+				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x + 300), y - 300, layer, obj_Satellite);
 				meteorAttack = false;
 				alarm[6] = room_speed * 0.3;
 			}

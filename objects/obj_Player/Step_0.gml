@@ -16,7 +16,7 @@ else{
 // Set velocity_x
 if(can_move){
 	velocity_x = (input_right - input_left) * spd;
-} else {
+} else if(!can_move && grounded){
 	velocity_x = 0;
 }
 
