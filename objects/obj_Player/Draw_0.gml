@@ -16,3 +16,5 @@ else{
 		draw_self();
 	}
 }
+
+draw_text_ext_transformed(x, y - 30, hits, 10, 100000, .5, .5, 0);

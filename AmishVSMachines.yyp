@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0067f866-f190-447a-ab01-57dff15452b0",
+            "Value": {
+                "id": "95640aeb-f92b-4168-89bb-ff07a1fd9429",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "01160af6-1d5b-48da-b9a0-79bf04128048",
             "Value": {
                 "id": "9c3cbe32-5c4f-4a8f-b037-59896780c214",
@@ -1519,6 +1527,14 @@
             }
         },
         {
+            "Key": "a77537a8-c0ce-473e-bd2c-dc77b8a5da36",
+            "Value": {
+                "id": "73ce7d0e-2030-4fab-8d18-94a7a7716acd",
+                "resourcePath": "sprites\\spr_ArmorLeather\\spr_ArmorLeather.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a85b146e-96e4-426c-8a70-4313f190a68b",
             "Value": {
                 "id": "3f2f45ba-0fb6-479d-a399-e976330d7bfc",
@@ -1927,6 +1943,14 @@
             }
         },
         {
+            "Key": "d5d9fb9e-7e31-4738-aad1-a1f690ea7732",
+            "Value": {
+                "id": "42d68889-290c-4083-9c4a-f36b7b025cb6",
+                "resourcePath": "objects\\obj_Armors\\obj_Armors.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d5fccfe4-2fab-4923-a3e8-4c7bf334b614",
             "Value": {
                 "id": "b025f648-adf4-4ed8-8ed4-a24cdc26e959",
@@ -2059,6 +2083,14 @@
             "Value": {
                 "id": "3ccd3d8c-8949-474c-8e97-e8104cc47564",
                 "resourcePath": "sprites\\spr_PlayerPitchforkAttack\\spr_PlayerPitchforkAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e7ee71c3-6010-4cd2-9daa-536bdb30989c",
+            "Value": {
+                "id": "9e300fef-f452-4d25-bb28-646066161a37",
+                "resourcePath": "sprites\\spr_CheckPoint\\spr_CheckPoint.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2219,6 +2251,14 @@
             "Value": {
                 "id": "8fdc83ef-3d90-491d-9fe1-649bdb02e454",
                 "resourcePath": "objects\\obj_Drone\\obj_Drone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fcb92937-1cde-4608-b072-1ed476f6c670",
+            "Value": {
+                "id": "70066059-69ad-47bb-9eca-9203932942b9",
+                "resourcePath": "objects\\obj_CheckPoint\\obj_CheckPoint.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -9,6 +9,7 @@ if(!obj_Player.playerInvinciblity){
 	obj_Player.alarm[2] = room_speed * 1;
 	obj_Player.white_flash = true;
 	obj_Player.alarm[3] = 10;
+	obj_Player.armor = false;
 	if(obj_Player.hat.hat_num != 0){
 		switch(obj_Player.hat.hat_num){
 			case 0:

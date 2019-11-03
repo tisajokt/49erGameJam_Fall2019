@@ -1,5 +1,19 @@
 /// @description Player Controls
 
+
+
+if(hits == 0){
+	obj_GameController.playerIsDead = true;
+	visible = false;
+	obj_Hands.visible = false;
+	obj_Hat.visible = false;
+	weapon = 0;
+	stun = true;
+}
+
+
+
+
 // Get Inputs
 if(!stun){
 	scr_GetInputs(0);
@@ -18,11 +32,6 @@ if(can_move){
 	velocity_x = (input_right - input_left) * spd;
 } else if(!can_move && grounded){
 	velocity_x = 0;
-}
-
-if(hits == 0){
-	obj_GameController.playerIsDead = true;
-	instance_destroy();
 }
 
 
