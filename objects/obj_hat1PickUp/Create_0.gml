@@ -3,9 +3,9 @@ switch(hat_num){
 		sprite_index = spr_BaseHatIdle;
 		break;
 	case 1:
-		sprite_index = spr_SpeedHat;
+		sprite_index = spr_SpeedHatIdle;
 		break;
 	case 2:
-		sprite_index = spr_PowerHat;
+		sprite_index = spr_PowerHatIdle;
 		break;
 }
