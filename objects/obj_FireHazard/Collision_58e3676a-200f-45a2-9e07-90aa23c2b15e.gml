@@ -1,0 +1,1 @@
+///@desc kill player on contact

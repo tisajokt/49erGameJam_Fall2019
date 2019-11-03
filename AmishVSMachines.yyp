@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "0a333728-fe67-4f52-b200-ed2d1b28f79d",
-            "Value": {
-                "id": "6a9940b1-0fc3-4406-952f-9c114c154512",
-                "resourcePath": "views\\0a333728-fe67-4f52-b200-ed2d1b28f79d.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "0abe3b6c-c90e-49cc-a9ae-d8a27524fa20",
             "Value": {
                 "id": "360fdd13-c67f-41c0-8ba4-2530063b2625",
@@ -335,19 +327,19 @@
             }
         },
         {
-            "Key": "1e11cced-7044-4cae-8fe5-c7b54efc66d4",
-            "Value": {
-                "id": "2413d277-584c-42da-b42d-00afd5df93e9",
-                "resourcePath": "rooms\\rm_Level1\\rm_Level1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "1dc58542-2dab-4e13-b3eb-00699aab74cc",
             "Value": {
                 "id": "cfcfebab-53f0-426d-bc99-57b36c6b057b",
                 "resourcePath": "sounds\\bgm_level_3\\bgm_level_3.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "1e11cced-7044-4cae-8fe5-c7b54efc66d4",
+            "Value": {
+                "id": "2413d277-584c-42da-b42d-00afd5df93e9",
+                "resourcePath": "rooms\\rm_Level1\\rm_Level1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -827,6 +819,14 @@
             "Value": {
                 "id": "c7ec4a04-8716-42ad-b963-6fa238a6c850",
                 "resourcePath": "views\\4d68e7c3-81b6-4f12-8d92-2d930bd71ae3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4e23c489-13c8-4f5a-86f0-d9bcf7f654b6",
+            "Value": {
+                "id": "67209f69-ab20-41f7-ace8-0fa4df5dd172",
+                "resourcePath": "views\\4e23c489-13c8-4f5a-86f0-d9bcf7f654b6.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1508,6 +1508,14 @@
                 "id": "3333f447-239f-49c6-855d-dc902a3d8342",
                 "resourcePath": "views\\92b8054c-54fb-4c63-9f36-4c4a4a1beef5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92f6e101-f182-4c75-9443-67f22ca7f137",
+            "Value": {
+                "id": "e2417187-e5e7-4899-8934-409a9d6c8514",
+                "resourcePath": "objects\\obj_FireEmitter\\obj_FireEmitter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
