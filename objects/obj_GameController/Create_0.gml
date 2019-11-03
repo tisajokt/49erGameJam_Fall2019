@@ -1,0 +1,2 @@
+playerIsDead = false;
+bossIsDead = false;

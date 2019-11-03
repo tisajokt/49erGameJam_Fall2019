@@ -75,3 +75,9 @@ if(instance_exists(obj_Player)){
 	gun_rot = 90 + point_direction(x, y, targetx, targety);
 	}
 }
+
+if(hitpoints <= 0){
+	instance_create_layer(x, y, layer, obj_RobotDeathExplosion);
+	instance_destroy();
+}
+

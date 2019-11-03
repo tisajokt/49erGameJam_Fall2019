@@ -78,3 +78,8 @@ if(instance_exists(obj_Player)){
 		
 	}
 }
+
+if(hitpoints <= 0){
+	instance_create_layer(x, y, layer, obj_RobotDeathExplosion);
+	instance_destroy();
+}

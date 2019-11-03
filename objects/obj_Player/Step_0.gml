@@ -21,6 +21,7 @@ if(can_move){
 }
 
 if(hits == 0){
+	obj_GameController.playerIsDead = true;
 	instance_destroy();
 }
 
