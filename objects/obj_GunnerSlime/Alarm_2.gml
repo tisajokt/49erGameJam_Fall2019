@@ -1,1 +1,0 @@
-burstFire = true;

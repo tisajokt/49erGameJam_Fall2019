@@ -10,6 +10,6 @@ if(!obj_Player.playerInvinciblity){
 	obj_Player.white_flash = true;
 	obj_Player.alarm[3] = 10;
 	
-	obj_Player.weapon = 0;
+	//obj_Player.weapon = 0;
 	
 }

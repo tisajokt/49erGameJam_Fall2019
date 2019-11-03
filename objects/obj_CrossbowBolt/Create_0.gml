@@ -13,3 +13,4 @@ if(instance_exists(obj_Player)){
 
 	alarm[0] = room_speed * 2;
 }
+

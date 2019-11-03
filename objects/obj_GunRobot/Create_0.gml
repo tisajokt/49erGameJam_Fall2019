@@ -11,8 +11,6 @@ facing = 1;
 
 canFire = true;
 
-manaValue = 25;
-
 animate_attack = false;
 
-hitpoints = 20;
+hitpoints = 25;

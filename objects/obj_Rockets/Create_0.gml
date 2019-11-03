@@ -7,3 +7,5 @@ update = false;
 
 targetx = obj_Player.x;
 targety = obj_Player.y;
+
+gotThere = false;

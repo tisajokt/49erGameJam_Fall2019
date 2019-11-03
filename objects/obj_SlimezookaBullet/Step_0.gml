@@ -2,10 +2,10 @@
 x = x + (myFacing * spd);
 
 if(myFacing == 1){
-	image_xscale = -1;
+	image_xscale = 1;
 }
 else{
-	image_xscale = 1;
+	image_xscale = -1;
 }
 
 

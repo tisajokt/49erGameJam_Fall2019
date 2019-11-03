@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "02da1347-7939-4543-99bc-6d6a10fbe79e",
-            "Value": {
-                "id": "9e39888e-e82e-4731-b512-a3a987fc41d5",
-                "resourcePath": "objects\\obj_GunnerSlime\\obj_GunnerSlime.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "05304629-14d3-4ac1-a669-d9f0a6082837",
             "Value": {
                 "id": "f9ba25b5-168d-48a9-9255-bfe5ddb7f5b5",
@@ -1508,14 +1500,6 @@
                 "id": "8595e99f-ff75-4815-9263-7c95a05dbcb8",
                 "resourcePath": "sounds\\sfx_spec_expl\\sfx_spec_expl.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "a8b82755-4736-48cd-a2c5-e170dbe54e97",
-            "Value": {
-                "id": "f0ee8832-e0d2-445c-bf51-300af9658d99",
-                "resourcePath": "objects\\obj_ChargerSlime\\obj_ChargerSlime.yy",
-                "resourceType": "GMObject"
             }
         },
         {

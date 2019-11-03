@@ -37,9 +37,9 @@ if(instance_exists(obj_Player)){
 			// Attack
 			// Attacks player
 			if(gotThere && rocketAttack){
-				alarm[4] = 10;
+				instance_create_layer(x, y, layer, obj_Rockets);
 				rocketAttack = false;
-				alarm[1] = room_speed * 3;
+				alarm[1] = room_speed * 2;
 			}
 			
 			if(hitpoints < threshold){
@@ -48,6 +48,8 @@ if(instance_exists(obj_Player)){
 
 		}
 		else if(state == 2){
+			
+			velocity_x = 0;
 			
 			if(meteorAttack){
 				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x + 300), y - 300, layer, obj_Satellite);
@@ -62,6 +64,8 @@ if(instance_exists(obj_Player)){
 
 		}
 		else if(state == 3){
+			
+			velocity_x = 0;
 			
 			if(meteorAttack){
 				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x + 300), y - 300, layer, obj_Satellite);

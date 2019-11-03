@@ -35,8 +35,19 @@ if(instance_exists(obj_Player)){
 		
 		else{
 			if(canFlyBack){
-				velocity_x = facing * spd;
-				gotThere = false;
+				
+				
+				if(place_meeting(x + velocity_x, y, obj_WallAI)){
+					while(!place_meeting(x + sign(velocity_x), y, obj_WallAI)){
+						x += sign(velocity_x);
+					}
+					velocity_x = 0;
+				}
+				else{
+				
+					velocity_x = facing * spd;
+					gotThere = false;
+				}
 			}
 			
 		}

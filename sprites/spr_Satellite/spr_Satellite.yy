@@ -6,44 +6,44 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 47,
-    "bbox_left": 16,
-    "bbox_right": 46,
-    "bbox_top": 17,
+    "bbox_bottom": 52,
+    "bbox_left": 9,
+    "bbox_right": 61,
+    "bbox_top": 4,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "022ad4b3-ac42-4a31-931a-b1572df91587",
+            "id": "ff430eab-ccae-4086-9d84-7f1c21162193",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "2ff93fff-f04d-49a1-8418-fe31cf001680",
             "compositeImage": {
-                "id": "25009708-5ae1-45cc-b600-6e92f179be4d",
+                "id": "4d276d0d-1cf0-4c3e-97f9-d9ce2963f8f3",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "022ad4b3-ac42-4a31-931a-b1572df91587",
+                "FrameId": "ff430eab-ccae-4086-9d84-7f1c21162193",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "30c90ddc-a900-4726-9e50-bbab1099fea2",
+                    "id": "a7c77a4d-bfc6-4cc0-b01c-a73ac8ea9613",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "022ad4b3-ac42-4a31-931a-b1572df91587",
-                    "LayerId": "d822b276-e4d4-4c12-a22f-90039b59afbe"
+                    "FrameId": "ff430eab-ccae-4086-9d84-7f1c21162193",
+                    "LayerId": "a66771a6-51c6-46e0-8eef-7b617006d015"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 64,
+    "height": 55,
     "layers": [
         {
-            "id": "d822b276-e4d4-4c12-a22f-90039b59afbe",
+            "id": "a66771a6-51c6-46e0-8eef-7b617006d015",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "2ff93fff-f04d-49a1-8418-fe31cf001680",
@@ -66,5 +66,5 @@
     "type": 0,
     "width": 64,
     "xorig": 32,
-    "yorig": 32
+    "yorig": 27
 }
