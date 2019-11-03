@@ -34,7 +34,13 @@ if(instance_exists(obj_Player)){
 			}
 			
 			// Should I move left or right?
-			if(abs(obj_Player.x - x) > 100){
+			if(place_meeting(x + velocity_x, y, obj_WallAI)){
+				while(!place_meeting(x + sign(velocity_x), y, obj_WallAI)){
+					x += sign(velocity_x);
+				}
+				velocity_x = 0;
+			}
+			else if(abs(obj_Player.x - x) > 100){
 				velocity_x = facing * spd;
 			}
 		} 

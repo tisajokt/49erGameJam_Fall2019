@@ -68,7 +68,7 @@ if(instance_exists(obj_Player)){
 			velocity_x = 0;
 			
 			if(meteorAttack){
-				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x + 300), y - 300, layer, obj_Satellite);
+				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x ), y - 300, layer, obj_Satellite);
 				meteorAttack = false;
 				alarm[6] = room_speed * 0.3;
 			}

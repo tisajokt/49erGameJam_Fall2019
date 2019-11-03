@@ -20,4 +20,4 @@ animate_attack = false;
 hitpoints = 300;
 threshold = 120;
 
-state = 1;
+state = 3;

@@ -31,7 +31,7 @@ switch(obj_Player.weapon){
 		break;
 	case 1:
 		// set a timer to shoot the arrow
-		obj_Player.alarm[5] = 30;
+		obj_Player.alarm[6] = 30;
 		break;
 	case 2:
 		// create the sword hitbox
