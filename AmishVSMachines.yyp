@@ -324,6 +324,25 @@
             }
         },
         {
+            "Key": "0ec8620e-adea-4d46-92c6-6539e6e092fe",
+            "Value": {
+                "id": "c33de470-7450-4975-b672-aee618a17c3c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_wooden_shield\/spr_wooden_shield.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0ed20299-6f46-4334-9f72-6a325e7ae352",
             "Value": {
                 "id": "e879af5c-2bf2-4975-8b47-8bf2acedd315",
