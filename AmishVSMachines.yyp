@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0a333728-fe67-4f52-b200-ed2d1b28f79d",
+            "Value": {
+                "id": "6a9940b1-0fc3-4406-952f-9c114c154512",
+                "resourcePath": "views\\0a333728-fe67-4f52-b200-ed2d1b28f79d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0abe3b6c-c90e-49cc-a9ae-d8a27524fa20",
             "Value": {
                 "id": "360fdd13-c67f-41c0-8ba4-2530063b2625",
@@ -356,6 +364,14 @@
                 "id": "a48af8c4-9c6c-4aef-9d93-b358e568dddb",
                 "resourcePath": "views\\2406e39e-1677-4760-8a62-4b52f1ef5b10.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2521790b-1df1-4c08-b48d-8b22e867f8e0",
+            "Value": {
+                "id": "4c930a7c-107d-4f8c-a6ea-d1b79a8f11e4",
+                "resourcePath": "sprites\\spr_Phone\\spr_Phone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -780,6 +796,14 @@
                 "id": "08e3358e-666a-4a25-8e8e-f8f5b83d17a6",
                 "resourcePath": "objects\\Physics_object\\Physics_object.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "61cf6000-3b90-4732-a027-7a2f26050fbb",
+            "Value": {
+                "id": "5e70aff7-2ff4-46aa-87f0-a9b77ca9a42b",
+                "resourcePath": "sprites\\spr_AirPods\\spr_AirPods.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1823,6 +1847,14 @@
             }
         },
         {
+            "Key": "d83f7778-5aea-4c13-b653-cfc53f3e1a84",
+            "Value": {
+                "id": "42a67494-f5f8-45b7-aca3-3bb3aef1d067",
+                "resourcePath": "sprites\\spr_SelfTyingShoes\\spr_SelfTyingShoes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d8e669b5-a076-4256-b052-7f17e1fe6d52",
             "Value": {
                 "id": "22f0d0c1-36d7-4045-80d3-78c3998c5d45",
@@ -1860,6 +1892,14 @@
                 "id": "e9d749ab-d092-43a8-a505-a65f2254ae6d",
                 "resourcePath": "views\\dc8a06fc-0a6c-4501-a99e-088c03cb73de.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e117f8d4-7d11-4f09-844f-4954d1ecea19",
+            "Value": {
+                "id": "49f846bf-8bba-4bb5-9c48-ed0721574013",
+                "resourcePath": "objects\\obj_powerUpPickUp\\obj_powerUpPickUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {

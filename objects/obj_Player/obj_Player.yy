@@ -73,6 +73,36 @@
             "enumb": 3,
             "eventtype": 2,
             "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
+        },
+        {
+            "id": "00ce4adf-db86-4f3f-9c82-7b9efcbd8c57",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 2,
+            "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
+        },
+        {
+            "id": "bff6fade-c368-4964-a0f4-9e4e66cf9c6b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "e117f8d4-7d11-4f09-844f-4954d1ecea19",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
+        },
+        {
+            "id": "5dce4c8a-fb7c-4062-a33b-cb322f9b6c21",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "05304629-14d3-4ac1-a669-d9f0a6082837"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -178,6 +208,48 @@
             "value": "2",
             "varName": "weapon",
             "varType": 0
+        },
+        {
+            "id": "36d64e9b-a0a1-4950-8116-46347b2fd15d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "special_effect_type",
+            "varType": 1
+        },
+        {
+            "id": "45d55d12-9d48-496c-be37-fb261858e47b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "random_value",
+            "varType": 1
+        },
+        {
+            "id": "093cbee3-d112-4c9c-94a4-3ef57a40233f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "has_effect",
+            "varType": 3
         }
     ],
     "solid": false,

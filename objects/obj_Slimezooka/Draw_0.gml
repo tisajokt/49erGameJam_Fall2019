@@ -1,9 +1,12 @@
-if(white_flash){
-	shader_set(shdr_takeDamage);
-	draw_self();
-	shader_reset();
-} else {
-	draw_self();
+if(instance_exists(obj_Player)){
+	
+	if(white_flash){
+		shader_set(shdr_takeDamage);
+		draw_self();
+		shader_reset();
+	} else {
+		draw_self();
+	}
 }
 
 //draw_text(x, y - 8, hitpoints);
