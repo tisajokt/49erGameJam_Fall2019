@@ -21,17 +21,20 @@
 //	instance_create_depth(x + obj_Player.attack_offset * obj_Player.facing, y + 2, 100, obj_BasicAttack);
 //}
 
+
+
+
 switch(obj_Player.weapon){
 	case 0:
 		// create the pitchfork hitbox
-		instance_create_layer(x, y, obj_Player.layer, obj_PitchforkHB);
+		instance_create_layer(x, y, obj_Player.layer, obj_BasicAttack);
 		break;
 	case 1:
 		// set a timer to shoot the arrow
-		obj_Player.alarm[3] = 30;
+		obj_Player.alarm[6] = 30;
 		break;
 	case 2:
 		// create the sword hitbox
-		instance_create_layer(x, y, obj_Player.layer, obj_SwordHB);
+		instance_create_layer(x + 10, y + 10, obj_Player.layer, obj_BasicAttack);
 		break
 }

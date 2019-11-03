@@ -15,7 +15,3 @@ if(bleed && !invincible){
 	hitpoints -= 5;
 }
 
-
-if(hitpoints <= 0){
-	instance_destroy();
-}

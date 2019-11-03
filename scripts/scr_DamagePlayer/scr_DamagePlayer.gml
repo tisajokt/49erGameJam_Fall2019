@@ -23,4 +23,6 @@ if(!obj_Player.playerInvinciblity){
 		obj_Player.hat.hat_num = 0;
 	}
 	
+	//obj_Player.weapon = 0;
+	
 }

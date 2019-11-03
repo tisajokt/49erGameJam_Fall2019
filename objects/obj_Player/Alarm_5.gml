@@ -1,3 +1,4 @@
+
 switch(special_effect_type){
 	case 0: //Phone
 		if(random_value == 0){
@@ -25,3 +26,4 @@ switch(special_effect_type){
 		break;
 }
 has_effect = false;
+

@@ -6,13 +6,11 @@ active = true;
 
 //movement
 canJump = true;
-spd = 1;
+spd = 0.7;
 facing = 1;
 
 canFire = true;
-burstFire = true;
-burstFireCounter = 0;
 
-manaValue = 15;
+animate_attack = false;
 
-hitpoints = 20;
+hitpoints = 25;
