@@ -42,6 +42,7 @@ if(grounded){
 if (input_drop && hasWeapon == true) {
 	weapon = 0;
 	hasWeapon = false;
+	hits = hits - 1;
 }
 if(velocity_y > 0){
 	gravity_scale = static_gravity_scale * 1.4;
@@ -95,16 +96,18 @@ if (armor == 3) {
 	shieldTimer++;
 	if (shieldTimer >= 940) {
 		armor = 0;
-		hits = 1;
+		hits = 2;
 		hasShield = false;
 	} 
+} else {
+	shieldTimer = 0;
 }
 	if (armor == 4) {
 		hits = 1000000000;
 		basketTimer++;
 		if(basketTimer >= 1200) {
 			armor = 0;
-			hits = 1;
+			hits = 2;
 			hasShield = false;
 		}
 		} else {

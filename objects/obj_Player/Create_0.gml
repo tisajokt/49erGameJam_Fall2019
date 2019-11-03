@@ -36,18 +36,19 @@ enum hat_names{
 
 // weapons
 
-hits = 1;
+hits = 2;
 hasShield = false;
 shieldTimer = 0;
 basketTimer = 0;
 hasWeapon = false;
-hasArmor = false;
+haslArmor = false;
+hasmArmor = false;
 wH = 0;
 aH1 = 0;
 aH2 = 0;
 armor = 0;
 weapon = 0;
-
+takenHit = 0;
 white_flash = false;
 
 stun = false;
