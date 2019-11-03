@@ -12,5 +12,6 @@ facing = 1;
 canFire = true;
 
 animate_attack = false;
+gotThere = false;
 
 hitpoints = 25;
