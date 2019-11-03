@@ -9,7 +9,6 @@ canJump = false;
 spd = 1;
 facing = 1;
 
-damage = 20;
-manaValue = 10;
+damage = 15;
 
 hitpoints = 20;

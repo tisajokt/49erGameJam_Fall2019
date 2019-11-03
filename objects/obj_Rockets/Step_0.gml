@@ -13,4 +13,9 @@ else{
 	
 	move_towards_point(targetx, targety, 1);
 	image_angle =  -90 + point_direction(x, y, targetx, targety);
+	
+	if((abs(x - targetx) <= 1) && (abs(y - targety) <= 1)){
+		update = true;
+	}
+	
 }

@@ -37,21 +37,27 @@ if(instance_exists(obj_Player)){
 			// Attack
 			// Attacks player
 			if(gotThere && rocketAttack){
-				alarm[4] = 10;
+				instance_create_layer(x, y, layer, obj_Rockets);
 				rocketAttack = false;
-				alarm[1] = room_speed * 3;
+				alarm[1] = room_speed * 2;
+			}
+			
+			if(hitpoints < threshold){
+				state = 3;
 			}
 
 		}
 		else if(state == 2){
 			
+			velocity_x = 0;
+			
 			if(meteorAttack){
-				instance_create_layer(x + random_range(-300, 300), y - 300, layer, obj_Satellite);
+				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x + 300), y - 300, layer, obj_Satellite);
 				meteorAttack = false;
 				alarm[6] = room_speed * 0.3;
 			}
 			
-			if(hitpoints < (hitpoints * 0.4)){
+			if(hitpoints < threshold){
 				state = 3;
 			}
 			
@@ -59,8 +65,10 @@ if(instance_exists(obj_Player)){
 		}
 		else if(state == 3){
 			
+			velocity_x = 0;
+			
 			if(meteorAttack){
-				instance_create_layer(x + random_range(-300, 300), y - 300, layer, obj_Satellite);
+				instance_create_layer(random_range( obj_Player.x - 300, obj_Player.x ), y - 300, layer, obj_Satellite);
 				meteorAttack = false;
 				alarm[6] = room_speed * 0.3;
 			}
@@ -80,4 +88,10 @@ if(instance_exists(obj_Player)){
 		
 		
 	}
+}
+
+if(hitpoints <= 0){
+	instance_create_layer(x, y, layer, obj_RobotDeathExplosion);
+	obj_GameController.bossIsDead = true;
+	instance_destroy();
 }

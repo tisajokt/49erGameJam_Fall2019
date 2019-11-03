@@ -1,38 +1,28 @@
 {
-    "id": "0f4fc5d4-e812-4fa7-9352-afbac99c0392",
+    "id": "4420fe99-3b2f-44f8-8921-cc1af6f8a664",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Attack_Water",
+    "name": "obj_PlayButton",
     "eventList": [
         {
-            "id": "054fc7c7-06f4-4c8e-aa47-40a76ec87310",
+            "id": "0e319283-42e5-4386-bafe-3fa9eed1d162",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0f4fc5d4-e812-4fa7-9352-afbac99c0392"
+            "m_owner": "4420fe99-3b2f-44f8-8921-cc1af6f8a664"
         },
         {
-            "id": "38469cb7-c591-4020-8e9f-3f8a4ab08a0a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 2,
-            "eventtype": 3,
-            "m_owner": "0f4fc5d4-e812-4fa7-9352-afbac99c0392"
-        },
-        {
-            "id": "ba776460-7589-4d25-9d23-ee79479a12f2",
+            "id": "bdd83b3b-b76a-42f0-a16d-6be015b098f5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "0f4fc5d4-e812-4fa7-9352-afbac99c0392"
+            "eventtype": 3,
+            "m_owner": "4420fe99-3b2f-44f8-8921-cc1af6f8a664"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "113dcceb-adbf-46b9-983d-3c9fa4c4ae03",
     "visible": true
 }

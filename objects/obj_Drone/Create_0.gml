@@ -16,6 +16,6 @@ targety = 0;
 
 animate_attack = false;
 
-hitpoints = 20;
+hitpoints = 10;
 
 gravity_scale = 0;
