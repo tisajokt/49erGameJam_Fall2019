@@ -2,7 +2,7 @@ if(instance_exists(obj_Player)){
 	switch(weapon){
 		case 0: //pitchfork
 			if(move_state = move_state.idle){
-				sprite_index = spr_PitchforkRun;
+				sprite_index = spr_PitchforkIdle;
 			} else if(move_state = move_state.running){
 				sprite_index = spr_PitchforkRun;
 			} else if(move_state = move_state.attack){

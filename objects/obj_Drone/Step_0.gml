@@ -71,5 +71,7 @@ if(instance_exists(obj_Player)){
 	
 	*/
 	
+	img_rot = 12 * image_xscale * (velocity_x / spd);
+	gun_rot = 90 + point_direction(x, y, targetx, targety);
 	}
 }

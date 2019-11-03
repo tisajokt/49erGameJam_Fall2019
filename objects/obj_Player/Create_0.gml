@@ -46,6 +46,12 @@ wH = 0;
 aH1 = 0;
 aH2 = 0;
 armor = 0;
+weapon = 0;
+
+white_flash = false;
+
+stun = false;
+
 hands = instance_create_depth(x, y, depth-1, obj_Hands);
 hat = instance_create_depth(x, y, depth-2, obj_Hat);
 

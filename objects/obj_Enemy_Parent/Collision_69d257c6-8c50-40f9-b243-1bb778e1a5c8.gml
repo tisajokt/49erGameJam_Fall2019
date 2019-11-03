@@ -7,7 +7,7 @@ if(!invincible){
 	
 	if(obj_Player.weapon == 2){
 		bleed = true;
-		alarm[11] = room_speed * 3;
+		alarm[11] = room_speed * 1.5;
 	}
 	else if(obj_Player.weapon == 3){
 		velocity_y = -7;
