@@ -41,7 +41,7 @@
         {
             "Key": "0067f866-f190-447a-ab01-57dff15452b0",
             "Value": {
-                "id": "ba2712bc-1c52-42a7-889e-fe28d3a58e2b",
+                "id": "78d71beb-fdf9-48cc-9677-ff1e7b76132d",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
             }
@@ -68,6 +68,14 @@
                 "id": "e959f28c-3efd-4fdd-81d9-58f6b18feee1",
                 "resourcePath": "views\\02ad8ca0-dede-4b41-8787-974d83c8805d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0416fcfe-75d5-429e-be67-9a18831475e7",
+            "Value": {
+                "id": "8974f73a-5ab8-44d9-925e-91e9bbdb648e",
+                "resourcePath": "sprites\\spr_PowerHat2\\spr_PowerHat2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,14 +231,6 @@
             }
         },
         {
-            "Key": "15a672c5-0373-4bdf-aead-8767379c33ae",
-            "Value": {
-                "id": "b87cd614-3b03-4670-b9f9-ec8c6ea07338",
-                "resourcePath": "sprites\\spr_PowerHatPitchforkAttack\\spr_PowerHatPitchforkAttack.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "15ec5032-8a01-441f-b68e-5a8fb77c7345",
             "Value": {
                 "id": "05c867cf-be0b-4bdf-87cb-0abf61a8d6bf",
@@ -247,27 +247,11 @@
             }
         },
         {
-            "Key": "167bf85b-d441-4eb6-b180-78fea08db216",
-            "Value": {
-                "id": "6a4e9b06-d485-42db-8ebd-455bd2dc1826",
-                "resourcePath": "sprites\\spr_PowerHatCrossbowAttack\\spr_PowerHatCrossbowAttack.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "16a22632-5cfc-42e1-9622-96d711652de8",
             "Value": {
                 "id": "7d748033-7d74-4c14-9c73-c7d0a1a7c0c7",
                 "resourcePath": "views\\16a22632-5cfc-42e1-9622-96d711652de8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "176ee41c-97ac-43ab-9b9e-566215309c5a",
-            "Value": {
-                "id": "51673b71-9ab9-4bfe-b0e8-2edf725d87d9",
-                "resourcePath": "sprites\\spr_PowerHatRun\\spr_PowerHatRun.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -447,6 +431,14 @@
             }
         },
         {
+            "Key": "280c2332-227f-4d4d-80bd-22aef1ec70c4",
+            "Value": {
+                "id": "a629749d-6b9a-4265-b5b5-e3b984c5ade0",
+                "resourcePath": "objects\\obj_level_1_audio\\obj_level_1_audio.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2aed0a67-326a-4b15-ad3d-64f8c4a7fec7",
             "Value": {
                 "id": "c0fee025-f865-40ab-bed4-0a8705f1b457",
@@ -484,6 +476,14 @@
                 "id": "58d83465-bd1d-4641-ad51-1c7ab65cd5a5",
                 "resourcePath": "views\\2ef5476d-7b47-419d-827e-338cf5bd47e9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2f41ae1a-4d57-4938-ab6e-4f2d795e6ecb",
+            "Value": {
+                "id": "b5c993db-91ba-4f9c-99d0-bcccf3adf12e",
+                "resourcePath": "objects\\obj_splash\\obj_splash.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -596,6 +596,14 @@
                 "id": "3291d4cc-2592-4384-b35f-16abb01851e9",
                 "resourcePath": "sprites\\spr_Boss\\spr_Boss.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3962d2e0-c85b-4a3b-abef-66225007868b",
+            "Value": {
+                "id": "dcf9b4ed-50e2-4350-b9be-54a0de346418",
+                "resourcePath": "objects\\obj_level_3_audio\\obj_level_3_audio.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -771,14 +779,6 @@
             "Value": {
                 "id": "c7ec4a04-8716-42ad-b963-6fa238a6c850",
                 "resourcePath": "views\\4d68e7c3-81b6-4f12-8d92-2d930bd71ae3.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4e23c489-13c8-4f5a-86f0-d9bcf7f654b6",
-            "Value": {
-                "id": "67209f69-ab20-41f7-ace8-0fa4df5dd172",
-                "resourcePath": "views\\4e23c489-13c8-4f5a-86f0-d9bcf7f654b6.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -975,19 +975,19 @@
             }
         },
         {
+            "Key": "65dad66d-a0ff-4a0a-b160-f09057202271",
+            "Value": {
+                "id": "56e4c6f6-e191-4b44-b3a3-66091e1b7a40",
+                "resourcePath": "sprites\\spr_splash\\spr_splash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66079370-ca0b-4044-954d-214e98018916",
             "Value": {
                 "id": "d4aa1446-5039-407a-9da1-53cb091c1f7e",
                 "resourcePath": "views\\66079370-ca0b-4044-954d-214e98018916.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "664707c8-b3be-47f3-a599-d17a73b8a210",
-            "Value": {
-                "id": "13a80f7c-e1a3-49dc-b087-7e0446d46939",
-                "resourcePath": "sprites\\spr_PowerHatIdle\\spr_PowerHatIdle.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1052,6 +1052,14 @@
                 "id": "06c75dfe-2c0e-4229-bf3f-a21aba580b0e",
                 "resourcePath": "sounds\\sfx_4k\\sfx_4k.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6cf9a140-3617-4944-ab4b-1ecf44536253",
+            "Value": {
+                "id": "37ab27ac-61bf-45c9-9263-cf31f36bab46",
+                "resourcePath": "views\\a16d06ab-2c1d-43c9-a539-8daa0936d798-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1308,6 +1316,14 @@
                 "id": "09a051c4-efbb-44d7-90ef-94f3cfb486c2",
                 "resourcePath": "sprites\\spr_SwordAttackHB\\spr_SwordAttackHB.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "83977111-ce94-4cd1-8c89-f5f148a901ec",
+            "Value": {
+                "id": "2778768d-34b3-4c62-8f49-07e2e21acd32",
+                "resourcePath": "objects\\obj_level_2_audio\\obj_level_2_audio.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1735,14 +1751,6 @@
             }
         },
         {
-            "Key": "b1c44909-2513-4b4e-b3f0-e341153fde54",
-            "Value": {
-                "id": "228ea43d-a389-4b9a-b75b-aa1ada7b5909",
-                "resourcePath": "sprites\\spr_PowerHatJumpRising\\spr_PowerHatJumpRising.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b20ca97e-596b-4643-8623-eea03a966a61",
             "Value": {
                 "id": "486e23e1-fde9-43dc-ba5a-249c3ffe1723",
@@ -1911,14 +1919,6 @@
             }
         },
         {
-            "Key": "c38643c7-7c77-45c7-b75c-9ed5d9d729b4",
-            "Value": {
-                "id": "4f629d58-cec8-445f-8a19-87d866f00866",
-                "resourcePath": "sprites\\spr_PowerHatJumpFalling\\spr_PowerHatJumpFalling.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c5663f57-8ab4-49ea-b196-54662d8b9785",
             "Value": {
                 "id": "e73743c2-e6e3-4e4b-8ea7-8972ff46a2d9",
@@ -1948,14 +1948,6 @@
                 "id": "656001c4-9d53-46e7-9be2-d3fb815d200e",
                 "resourcePath": "views\\c8884265-9426-49d2-92c1-6e6edfc6a1df.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c97d230c-52c5-459f-8702-2234435a736d",
-            "Value": {
-                "id": "d997243d-5cad-469d-b25c-78be27c18118",
-                "resourcePath": "sprites\\spr_PowerHatSwordAttack\\spr_PowerHatSwordAttack.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2108,6 +2100,14 @@
                 "id": "cec81f83-5501-423e-ae4b-99afa10e40ac",
                 "resourcePath": "sounds\\sfx_sel\\sfx_sel.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "dbfc4128-1dfb-43ec-9fc1-3ce15721645f",
+            "Value": {
+                "id": "94a81c44-dc7a-429f-b08a-8ada40d2db87",
+                "resourcePath": "sprites\\spr_PowerHat1\\spr_PowerHat1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2324,6 +2324,14 @@
                 "id": "adf666ff-67d7-488c-a294-4682dd324711",
                 "resourcePath": "objects\\obj_GameController\\obj_GameController.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa4d6dff-913c-4b8b-819c-596ac413c5ac",
+            "Value": {
+                "id": "8294b141-8554-48c8-a775-65c5b788f35e",
+                "resourcePath": "rooms\\SplashScreen\\SplashScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
