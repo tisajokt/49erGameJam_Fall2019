@@ -975,6 +975,14 @@
             }
         },
         {
+            "Key": "6ca04f11-bbf8-43de-9749-39acfd056bbf",
+            "Value": {
+                "id": "06c75dfe-2c0e-4229-bf3f-a21aba580b0e",
+                "resourcePath": "sounds\\sfx_4k\\sfx_4k.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6d033082-57e0-4a2b-b002-2b2160d3d3d4",
             "Value": {
                 "id": "002eb87e-21ba-450c-9f1c-43f4770d3fd7",
