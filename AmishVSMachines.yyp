@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "3a11bec4-ccde-4ace-84bd-ea40e09e8050",
+            "Value": {
+                "id": "93ca1293-b5b4-41d9-a69c-3a1bdae4ad33",
+                "resourcePath": "sounds\\sfx_step\\sfx_step.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3ac0bd4e-0a64-48d8-a9d3-c0b415a3644d",
             "Value": {
                 "id": "43c3c6e0-f19a-4cd4-bc9c-eb51f0a6226c",
@@ -603,6 +611,14 @@
             "Value": {
                 "id": "02048351-e85d-4f73-b3f5-fd0738c2bfbe",
                 "resourcePath": "sounds\\sfx_boss_fire\\sfx_boss_fire.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3da9d0cb-6aa7-4c8b-b298-a69a31c12469",
+            "Value": {
+                "id": "63a73fd1-1816-414a-ba36-40d7a9265050",
+                "resourcePath": "sounds\\sfx_boss_kill\\sfx_boss_kill.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -644,6 +660,14 @@
                 "id": "e964ffe3-6a99-4380-aeab-0ebfcb475cd7",
                 "resourcePath": "sprites\\spr_GUI_healthbar\\spr_GUI_healthbar.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "46bd881d-f1ce-4da3-840a-041eb403faf1",
+            "Value": {
+                "id": "acf0febb-973f-4d10-babd-020d099f4433",
+                "resourcePath": "sounds\\bgm_game_over\\bgm_game_over.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -732,6 +756,14 @@
                 "id": "49605d86-b565-4b5e-8c99-6b0c5d194d16",
                 "resourcePath": "objects\\obj_MacePickUp1\\obj_MacePickUp1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "51927ab6-071c-4039-9fbe-689b012f241f",
+            "Value": {
+                "id": "dbb02c77-8f47-4188-aefc-a1876494f241",
+                "resourcePath": "sounds\\bgm_main_menu\\bgm_main_menu.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1119,6 +1151,14 @@
             }
         },
         {
+            "Key": "7d81e914-9f64-4ce0-85f3-85719483a555",
+            "Value": {
+                "id": "e6ddcad4-5a6c-487b-9f27-262d617af176",
+                "resourcePath": "sounds\\sfx_pop_tune\\sfx_pop_tune.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7e952551-00b9-4656-9644-df7b529649f6",
             "Value": {
                 "id": "039427f8-9ba6-48aa-90ba-43f293b163f6",
@@ -1476,6 +1516,14 @@
                 "id": "99d5a049-71c5-42ef-88e2-336cc6325f43",
                 "resourcePath": "views\\a51f1a43-14af-429e-b186-c7cb606ec5d7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a65a8767-bea8-42bc-968f-c06af6e8e167",
+            "Value": {
+                "id": "c66d68fa-b307-4302-8518-86e32134b257",
+                "resourcePath": "sounds\\sfx_splash\\sfx_splash.yy",
+                "resourceType": "GMSound"
             }
         },
         {
