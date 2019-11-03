@@ -42,7 +42,8 @@
         "bcfdc90e-9244-4537-b53f-1bf748348229",
         "12cbb0e0-d586-4062-8c7d-a50985f37d3d",
         "c824d1d1-51fa-4516-aaca-f686168fd508",
-        "2796010e-c5e1-42ea-9937-58be8dc8a0de"
+        "2796010e-c5e1-42ea-9937-58be8dc8a0de",
+        "a39c8da0-cb62-4156-85a1-ed7d327651cc"
     ],
     "IsDnD": false,
     "layers": [
@@ -60,7 +61,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_601D10D7","id": "6de5555a-b8b3-4b4e-be29-d63a1a3401ff","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_601D10D7","objId": "6e04c6df-b6b6-4498-8224-1cea75ab290b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 32,"y": 0}
+{"name": "inst_601D10D7","id": "6de5555a-b8b3-4b4e-be29-d63a1a3401ff","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_601D10D7","objId": "6e04c6df-b6b6-4498-8224-1cea75ab290b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 32,"y": 0},
+{"name": "inst_3C42987C","id": "a39c8da0-cb62-4156-85a1-ed7d327651cc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3C42987C","objId": "0b6fbb4a-eccb-41b6-9216-cc137c559c39","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1024,"y": 448}
             ],
             "layers": [
 
