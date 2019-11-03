@@ -52,12 +52,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1",
+            "value": "2",
             "varName": "hat_num",
             "varType": 1
         }
     ],
     "solid": false,
-    "spriteId": "7cc57c92-10a3-4b1d-8f53-d65d65317461",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
