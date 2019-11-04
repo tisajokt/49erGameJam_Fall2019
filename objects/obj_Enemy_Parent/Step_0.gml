@@ -15,3 +15,9 @@ if(bleed && !invincible){
 	hitpoints -= 5;
 }
 
+
+
+if(abs(obj_Player.x - x) <= 240){
+	active = true;
+}
+

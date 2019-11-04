@@ -93,5 +93,6 @@ if(instance_exists(obj_Player)){
 if(hitpoints <= 0){
 	instance_create_layer(x, y, layer, obj_RobotDeathExplosion);
 	obj_GameController.bossIsDead = true;
+	scr_PlayAudio(sfx_boss_def);
 	instance_destroy();
 }

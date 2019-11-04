@@ -2,7 +2,7 @@
 
 event_inherited();
 
-active = true;
+//active = true;
 
 //movement
 canJump = false;

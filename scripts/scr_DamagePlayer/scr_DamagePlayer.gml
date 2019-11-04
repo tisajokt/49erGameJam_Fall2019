@@ -1,6 +1,8 @@
 // handles damage done to player
 // handles earth passive
 
+scr_PlayAudio(sfx_player_dmg);
+
 // sets playerInvincibility
 if(!obj_Player.playerInvinciblity){
 	

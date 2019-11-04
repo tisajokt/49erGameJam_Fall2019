@@ -3,3 +3,6 @@
 
 
 scr_PlayAudio(bgm_main_menu);
+
+counting = false;
+counter = 0;

@@ -63,7 +63,7 @@ if(velocity_y > 0){
 #region Attacking
 if(input_attack && can_attack){
 	can_attack = false;
-	can_move = false;
+	//can_move = false;
 	hat.image_index = 0;
 	hands.image_index = 0;
 	image_index = 0;

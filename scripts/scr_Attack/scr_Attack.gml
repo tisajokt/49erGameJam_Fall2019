@@ -22,7 +22,7 @@
 //}
 
 
-
+scr_PlayAudio(sfx_player_atk);
 
 switch(obj_Player.weapon){
 	case 0:

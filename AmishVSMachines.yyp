@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "677295bf-0a58-4432-a7e3-e678771cd701",
+            "Value": {
+                "id": "884dbe34-ed89-44ca-9781-dae551808343",
+                "resourcePath": "sprites\\spr_PartFire\\spr_PartFire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6784621e-f899-4306-a061-5df13e29da84",
             "Value": {
                 "id": "505e2763-3efe-44b4-8d7f-c77ff75f725c",
@@ -2276,14 +2284,6 @@
                 "id": "2cfa6095-a89b-48a5-8abf-877dd56881d0",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f4efa984-4067-4010-a609-e58fb2e1c4b1",
-            "Value": {
-                "id": "3fc22623-5fb0-4724-b030-ee3c913a38e9",
-                "resourcePath": "sprites\\spr_PartFire\\spr_PartFire.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

@@ -36,7 +36,7 @@ enum hat_names{
 
 // weapons
 
-hits = 3;
+hits = 6;
 weapon = 0;
 armor = false;
 

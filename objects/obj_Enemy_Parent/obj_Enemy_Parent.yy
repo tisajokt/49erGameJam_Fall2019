@@ -188,6 +188,20 @@
             "value": "False",
             "varName": "white_flash",
             "varType": 3
+        },
+        {
+            "id": "6e64b9e5-7f65-41a1-b6b1-a850c4474f0c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "active",
+            "varType": 3
         }
     ],
     "solid": false,
